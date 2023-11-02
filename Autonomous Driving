@@ -2,9 +2,16 @@
 
 
 ## Perception
+### Object Detection
+### Object Tracking
+### Localization
+### Segmentation
+### Motion forecasting
 
 
 ## Decision Making & Planning
+### Decision Making
+### Motion Planning
 
 
 ## Control
