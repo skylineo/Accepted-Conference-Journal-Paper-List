@@ -23,6 +23,7 @@
 ### Decision Making
 #### multi-agent collaboration
  Improve generalization of driving policy at signalized intersectionswith adversarial learning
+ Lane change scheduling for connected and autonomous vehicles
  Hierarchical and game-theoretic decision-making for connected and automated vehicles in overtaking scenarios
  Toward personalized decision making for autonomous vehicles: A constrained multi-objective reinforcement learning technique(partc 2023)
 #### single-agent decision making
