@@ -27,6 +27,7 @@
  Hierarchical and game-theoretic decision-making for connected and automated vehicles in overtaking scenarios
  Toward personalized decision making for autonomous vehicles: A constrained multi-objective reinforcement learning technique(partc 2023)
 #### single-agent decision making
+ Modified DDPG car-following model with a real-world human driving experience with CARLA simulator
  Why did the AI make that decision? Towards an explainable artificial intelligence (XAI) for autonomous driving systems(partc 2023)
  Human-like decision making for lane change based on the cognitive map and hierarchical reinforcement learning
  Improve generalization of driving policy at signalized intersections with adversarial learning
@@ -58,10 +59,13 @@
  Distributed data-driven predictive control for cooperatively smoothing mixed traffic flow
  Fault-Tolerant cooperative driving at highway on-ramps considering communication failure
  A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic
+ A general approach to smoothing nonlinear mixed traffic via control of autonomous vehicles
 ### platoon collaboration control
  Distributed model predictive control for heterogeneous vehicle platoon with unknown input of leading vehicle
  A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic
  A deep reinforcement learning based distributed control strategy for connected automated vehicles in mixed traffic platoon
+ Coordinated lane-changing scheduling of multilane CAV platoons in heterogeneous scenarios
+ COOR-PLT: A hierarchical control model for coordinating adaptive platoons of connected and autonomous vehicles at signal-free intersections based on deep reinforcement learning
  
 
 
@@ -84,5 +88,6 @@
  A safety-enhanced eco-driving strategy for connected and autonomous vehicles: A hierarchical and distributed framework
  A novel spatio-temporal generative inference network for predicting the long-term highway traffic speed
  Decentralized signal control for multi-modal traffic network: A deep reinforcement learning approach
+ Alpha-fair large-scale urban network control: A perimeter control based on a macroscopic fundamental diagram
  TD3LVSL: A lane-level variable speed limit approach based on twin delayed deep deterministic policy gradient in a connected automated vehicle environment
 
