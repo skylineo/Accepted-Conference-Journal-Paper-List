@@ -26,6 +26,8 @@
 ### Motion Planning
 ### single-agent planning
  No more road bullying: An integrated behavioral and motion planner with proactive right-of-way acquisition capability(partc 2023)
+### platoon planning
+ Centralized vehicle trajectory planning on general platoon sorting problem with multi-vehicle lane changing
 #### multi-agent collaboration planning
  Fair collaborative vehicle routing: A deep multi-agent reinforcement learning approach(partc 2023)
 
@@ -33,13 +35,17 @@
 ## Control
 ### platoon control
  Distributed model predictive control for heterogeneous vehicle platoon with unknown input of leading vehicle
-### multi-agent collaboration control
+### traffic control
  Adaptive control with moving actuators at motorway bottlenecks with connected and automated vehicles(partc 2023)
  Nonlinear model predictive control of large-scale urban road networks via average speed control
  A novel bi-level temporally-distributed MPC approach: An application to green urban mobility
+ Hybrid perimeter control with real-time partitions in heterogeneous urban networks: An integration of deep learning and MPC
+ Safety-critical traffic control by connected automated vehicles
+### multi-agent collaboration control
  Multi-objective multi-agent deep reinforcement learning to reduce bus bunching for multiline services with a shared corridor
  Distributed data-driven predictive control for cooperatively smoothing mixed traffic flow
-
+ Fault-Tolerant cooperative driving at highway on-ramps considering communication failure
+ 
 
 
 
