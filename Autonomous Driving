@@ -21,6 +21,8 @@
 
 ## Decision Making & Planning
 ### Decision Making
+#### platoon collaboration
+ Strategic and tactical decision-making for cooperative vehicle platooning with organized behavior on multi-lane highways
 #### multi-agent collaboration
  Improve generalization of driving policy at signalized intersectionswith adversarial learning(partc 2023)
  Lane change scheduling for connected and autonomous vehicles(partc 2023)
@@ -48,6 +50,8 @@
  Safe autonomous lane changes and impact on traffic flow in a connected vehicle environment(partc 2023)
  Model predictive control policy design, solutions, and stability analysis for longitudinal vehicle control considering shockwave damping(partc 2023)
  Unified framework for over-damped string stable adaptive cruise control systems(partc 2023)
+ A generative car-following model conditioned on driving styles
+ Predicting and explaining lane-changing behaviour using machine learning: A comparative study
 ### traffic control
  Adaptive control with moving actuators at motorway bottlenecks with connected and automated vehicles(partc 2023)
  Nonlinear model predictive control of large-scale urban road networks via average speed control(partc 2023)
@@ -90,4 +94,5 @@
  Decentralized signal control for multi-modal traffic network: A deep reinforcement learning approach(partc 2023)
  Alpha-fair large-scale urban network control: A perimeter control based on a macroscopic fundamental diagram(partc 2023)
  TD3LVSL: A lane-level variable speed limit approach based on twin delayed deep deterministic policy gradient in a connected automated vehicle environment(partc 2023)
+ Connected automated vehicle trajectory optimization along signalized arterial: A decentralized approach under mixed traffic environment
 
