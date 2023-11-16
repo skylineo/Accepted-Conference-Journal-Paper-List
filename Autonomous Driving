@@ -16,6 +16,7 @@
  Dynamic-learning spatial-temporal Transformer network for vehicular trajectory prediction at urban intersections(partc 2023)
  A two-layer integrated model for cyclist trajectory prediction considering multiple interactions with the environment(partc 2023)
  A physics-informed Transformer model for vehicle trajectory prediction on highways(partc 2023)
+ Explainable multimodal trajectory prediction using attention models
  
 
 
@@ -43,6 +44,9 @@
  Decentralized motion planning for intelligent bus platoon based on hierarchical optimization framework(partc 2023)
 #### multi-agent collaboration planning
  Fair collaborative vehicle routing: A deep multi-agent reinforcement learning approach(partc 2023)
+ Coordinated trajectory planning for lane-changing in the weaving areas of dedicated lanes for connected and automated vehicles 
+ Cooperative path and trajectory planning for autonomous vehicles on roads without lanes: A laboratory experimental demonstration
+ Distributed cooperative trajectory and lane changing optimization of connected automated vehicles: Freeway segments with lane drop
 
 
 ## Control
@@ -64,6 +68,7 @@
  Fault-Tolerant cooperative driving at highway on-ramps considering communication failure(partc 2023)
  A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic(partc 2023)
  A general approach to smoothing nonlinear mixed traffic via control of autonomous vehicles(partc 2023)
+ Make space to change lane: A cooperative adaptive cruise control lane change controller
 ### platoon collaboration control
  Distributed model predictive control for heterogeneous vehicle platoon with unknown input of leading vehicle(partc 2023)
  A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic(partc 2023)
@@ -79,6 +84,7 @@
 
 
 ## Vehicle-Road
+ An eco-driving algorithm based on vehicle to infrastructure (V2I) communications for signalized intersections
 
 
 ## Others
