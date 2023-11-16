@@ -3,69 +3,69 @@
 
 ## Perception
 ### Object Detection
- Motion and geometry-related information fusion through a framework for object identification from a moving camera in urban driving scenarios
+ Motion and geometry-related information fusion through a framework for object identification from a moving camera in urban driving scenarios(partc 2023)
 ### Object Tracking
- Cooperative multi-camera vehicle tracking and traffic surveillance with edge artificial intelligence and representation learning
+ Cooperative multi-camera vehicle tracking and traffic surveillance with edge artificial intelligence and representation learning(partc 2023)
 #### 3D Tracking
- Using spatiotemporal stacks for precise vehicle tracking from roadside 3D LiDAR data
+ Using spatiotemporal stacks for precise vehicle tracking from roadside 3D LiDAR data(partc 2023)
 ### Localization
 ### Segmentation
 ### Motion forecasting
  Towards explainable motion prediction using heterogeneous graph representations(partc 2023)
- Real-time forecasting of driver-vehicle dynamics on 3D roads: A deep-learning framework leveraging Bayesian optimisation
- Dynamic-learning spatial-temporal Transformer network for vehicular trajectory prediction at urban intersections
- A two-layer integrated model for cyclist trajectory prediction considering multiple interactions with the environment
- A physics-informed Transformer model for vehicle trajectory prediction on highways
+ Real-time forecasting of driver-vehicle dynamics on 3D roads: A deep-learning framework leveraging Bayesian optimisation(partc 2023)
+ Dynamic-learning spatial-temporal Transformer network for vehicular trajectory prediction at urban intersections(partc 2023)
+ A two-layer integrated model for cyclist trajectory prediction considering multiple interactions with the environment(partc 2023)
+ A physics-informed Transformer model for vehicle trajectory prediction on highways(partc 2023)
  
 
 
 ## Decision Making & Planning
 ### Decision Making
 #### multi-agent collaboration
- Improve generalization of driving policy at signalized intersectionswith adversarial learning
- Lane change scheduling for connected and autonomous vehicles
- Hierarchical and game-theoretic decision-making for connected and automated vehicles in overtaking scenarios
+ Improve generalization of driving policy at signalized intersectionswith adversarial learning(partc 2023)
+ Lane change scheduling for connected and autonomous vehicles(partc 2023)
+ Hierarchical and game-theoretic decision-making for connected and automated vehicles in overtaking scenarios(partc 2023)
  Toward personalized decision making for autonomous vehicles: A constrained multi-objective reinforcement learning technique(partc 2023)
 #### single-agent decision making
- Modified DDPG car-following model with a real-world human driving experience with CARLA simulator
+ Modified DDPG car-following model with a real-world human driving experience with CARLA simulator(partc 2023)
  Why did the AI make that decision? Towards an explainable artificial intelligence (XAI) for autonomous driving systems(partc 2023)
- Human-like decision making for lane change based on the cognitive map and hierarchical reinforcement learning
- Improve generalization of driving policy at signalized intersections with adversarial learning
+ Human-like decision making for lane change based on the cognitive map and hierarchical reinforcement learning(partc 2023)
+ Improve generalization of driving policy at signalized intersections with adversarial learning(partc 2023)
 ### Motion Planning
 ### single-agent planning
- Predictive trajectory planning for autonomous vehicles at intersections using reinforcement learning
- A deep inverse reinforcement learning approach to route choice modeling with context-dependent rewards
+ Predictive trajectory planning for autonomous vehicles at intersections using reinforcement learning(partc 2023)
+ A deep inverse reinforcement learning approach to route choice modeling with context-dependent rewards(partc 2023)
  No more road bullying: An integrated behavioral and motion planner with proactive right-of-way acquisition capability(partc 2023)
 ### platoon planning
- Centralized vehicle trajectory planning on general platoon sorting problem with multi-vehicle lane changing
- Decentralized motion planning for intelligent bus platoon based on hierarchical optimization framework
+ Centralized vehicle trajectory planning on general platoon sorting problem with multi-vehicle lane changing(partc 2023)
+ Decentralized motion planning for intelligent bus platoon based on hierarchical optimization framework(partc 2023)
 #### multi-agent collaboration planning
  Fair collaborative vehicle routing: A deep multi-agent reinforcement learning approach(partc 2023)
 
 
 ## Control
 ### single-vehicle control
- Safe autonomous lane changes and impact on traffic flow in a connected vehicle environment
- Model predictive control policy design, solutions, and stability analysis for longitudinal vehicle control considering shockwave damping
- Unified framework for over-damped string stable adaptive cruise control systems
+ Safe autonomous lane changes and impact on traffic flow in a connected vehicle environment(partc 2023)
+ Model predictive control policy design, solutions, and stability analysis for longitudinal vehicle control considering shockwave damping(partc 2023)
+ Unified framework for over-damped string stable adaptive cruise control systems(partc 2023)
 ### traffic control
  Adaptive control with moving actuators at motorway bottlenecks with connected and automated vehicles(partc 2023)
- Nonlinear model predictive control of large-scale urban road networks via average speed control
- A novel bi-level temporally-distributed MPC approach: An application to green urban mobility
- Hybrid perimeter control with real-time partitions in heterogeneous urban networks: An integration of deep learning and MPC
- Safety-critical traffic control by connected automated vehicles
+ Nonlinear model predictive control of large-scale urban road networks via average speed control(partc 2023)
+ A novel bi-level temporally-distributed MPC approach: An application to green urban mobility(partc 2023)
+ Hybrid perimeter control with real-time partitions in heterogeneous urban networks: An integration of deep learning and MPC(partc 2023)
+ Safety-critical traffic control by connected automated vehicles(partc 2023)
 ### multi-agent collaboration control
- Multi-objective multi-agent deep reinforcement learning to reduce bus bunching for multiline services with a shared corridor
- Distributed data-driven predictive control for cooperatively smoothing mixed traffic flow
- Fault-Tolerant cooperative driving at highway on-ramps considering communication failure
- A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic
- A general approach to smoothing nonlinear mixed traffic via control of autonomous vehicles
+ Multi-objective multi-agent deep reinforcement learning to reduce bus bunching for multiline services with a shared corridor(partc 2023)
+ Distributed data-driven predictive control for cooperatively smoothing mixed traffic flow(partc 2023)
+ Fault-Tolerant cooperative driving at highway on-ramps considering communication failure(partc 2023)
+ A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic(partc 2023)
+ A general approach to smoothing nonlinear mixed traffic via control of autonomous vehicles(partc 2023)
 ### platoon collaboration control
- Distributed model predictive control for heterogeneous vehicle platoon with unknown input of leading vehicle
- A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic
- A deep reinforcement learning based distributed control strategy for connected automated vehicles in mixed traffic platoon
- Coordinated lane-changing scheduling of multilane CAV platoons in heterogeneous scenarios
- COOR-PLT: A hierarchical control model for coordinating adaptive platoons of connected and autonomous vehicles at signal-free intersections based on deep reinforcement learning
+ Distributed model predictive control for heterogeneous vehicle platoon with unknown input of leading vehicle(partc 2023)
+ A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic(partc 2023)
+ A deep reinforcement learning based distributed control strategy for connected automated vehicles in mixed traffic platoon(partc 2023)
+ Coordinated lane-changing scheduling of multilane CAV platoons in heterogeneous scenarios(partc 2023)
+ COOR-PLT: A hierarchical control model for coordinating adaptive platoons of connected and autonomous vehicles at signal-free intersections based on deep reinforcement learning(partc 2023)
  
 
 
@@ -83,11 +83,11 @@
  Stability analysis and connected vehicles management for mixed traffic flow with platoons of connected automated vehicles(partc 2023)
  MSGNN: A Multi-structured Graph Neural Network model for real-time incident prediction in large traffic networks(partc 2023)
  Adaptive control with moving actuators at motorway bottlenecks with connected and automated vehicles(partc 2023)
- Nonlinear model predictive control of large-scale urban road networks via average speed control
- A macro–micro spatio-temporal neural network for traffic prediction
- A safety-enhanced eco-driving strategy for connected and autonomous vehicles: A hierarchical and distributed framework
- A novel spatio-temporal generative inference network for predicting the long-term highway traffic speed
- Decentralized signal control for multi-modal traffic network: A deep reinforcement learning approach
- Alpha-fair large-scale urban network control: A perimeter control based on a macroscopic fundamental diagram
- TD3LVSL: A lane-level variable speed limit approach based on twin delayed deep deterministic policy gradient in a connected automated vehicle environment
+ Nonlinear model predictive control of large-scale urban road networks via average speed control(partc 2023)
+ A macro–micro spatio-temporal neural network for traffic prediction(partc 2023)
+ A safety-enhanced eco-driving strategy for connected and autonomous vehicles: A hierarchical and distributed framework(partc 2023)
+ A novel spatio-temporal generative inference network for predicting the long-term highway traffic speed(partc 2023)
+ Decentralized signal control for multi-modal traffic network: A deep reinforcement learning approach(partc 2023)
+ Alpha-fair large-scale urban network control: A perimeter control based on a macroscopic fundamental diagram(partc 2023)
+ TD3LVSL: A lane-level variable speed limit approach based on twin delayed deep deterministic policy gradient in a connected automated vehicle environment(partc 2023)
 
