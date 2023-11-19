@@ -1,12 +1,14 @@
 # Autonomous Driving Applicaiton Catagory
 
-
 ## Perception
 ### Object Detection
+#### 2D Object Detection
+#### 3D Object Detection
  Motion and geometry-related information fusion through a framework for object identification from a moving camera in urban driving scenarios(partc 2023)
 ### Object Tracking
+#### Single Object Tracking
+#### Multiple Object tracking
  Cooperative multi-camera vehicle tracking and traffic surveillance with edge artificial intelligence and representation learning(partc 2023)
-#### 3D Tracking
  Using spatiotemporal stacks for precise vehicle tracking from roadside 3D LiDAR data(partc 2023)
 ### Localization
 ### Segmentation
