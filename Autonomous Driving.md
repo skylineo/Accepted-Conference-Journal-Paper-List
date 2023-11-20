@@ -44,14 +44,7 @@ Definition:The localization system identifies the location of the vehicle on a g
 
 ## Decision Making & Planning
 ### Decision Making
-#### platoon collaboration
- Strategic and tactical decision-making for cooperative vehicle platooning with organized behavior on multi-lane highways
-#### multi-agent collaboration
- Improve generalization of driving policy at signalized intersectionswith adversarial learning(partc 2023)
- Lane change scheduling for connected and autonomous vehicles(partc 2023)
- Hierarchical and game-theoretic decision-making for connected and automated vehicles in overtaking scenarios(partc 2023)
- Toward personalized decision making for autonomous vehicles: A constrained multi-objective reinforcement learning technique(partc 2023)
-#### single-agent decision making
+#### single-vehicle decision making
  Modeling aggressive driving behavior based on graph construction
  Modified DDPG car-following model with a real-world human driving experience with CARLA simulator(partc 2023)
  Why did the AI make that decision? Towards an explainable artificial intelligence (XAI) for autonomous driving systems(partc 2023)
@@ -59,23 +52,44 @@ Definition:The localization system identifies the location of the vehicle on a g
  Improve generalization of driving policy at signalized intersections with adversarial learning(partc 2023)
  Deep Reinforcement Learning for Personalized Driving Recommendations to Mitigate Aggressiveness and Riskiness: Modeling and Impact Assessment
  Decision making of autonomous vehicles in lane change scenarios: Deep reinforcement learning approaches with risk awareness
+#### cooperative decision making
+##### cooperative platooning
+ Strategic and tactical decision-making for cooperative vehicle platooning with organized behavior on multi-lane highways
+##### cooperative meagering
+##### cooperative lane changing
+##### intersection management
+##### roundabout management
+ Lane change scheduling for connected and autonomous vehicles(partc 2023)
+ Hierarchical and game-theoretic decision-making for connected and automated vehicles in overtaking scenarios(partc 2023)
+ Toward personalized decision making for autonomous vehicles: A constrained multi-objective reinforcement learning technique(partc 2023)
+
+ 
 ### Motion Planning
-### single-agent planning
+#### single-vehicle planning
  Predictive trajectory planning for autonomous vehicles at intersections using reinforcement learning(partc 2023)
  A deep inverse reinforcement learning approach to route choice modeling with context-dependent rewards(partc 2023)
  No more road bullying: An integrated behavioral and motion planner with proactive right-of-way acquisition capability(partc 2023)
  Autonomous navigation at unsignalized intersections: A coupled reinforcement learning and model predictive control approach
  A Markov Decision Process framework to incorporate network-level data in motion planning for connected and automated vehicles
  Optimization-based path-planning for connected and non-connected automated vehicles
-### platoon planning
+#### cooperative planning
+ Analysis of cooperative driving strategies at road network level with macroscopic fundamental diagram
+ Cooperative path and trajectory planning for autonomous vehicles on roads without lanes: A laboratory experimental demonstration
+ Fair collaborative vehicle routing: A deep multi-agent reinforcement learning approach(partc 2023)
+##### cooperative platooning
  Centralized vehicle trajectory planning on general platoon sorting problem with multi-vehicle lane changing(partc 2023)
  Decentralized motion planning for intelligent bus platoon based on hierarchical optimization framework(partc 2023)
-#### multi-agent collaboration planning
- Fair collaborative vehicle routing: A deep multi-agent reinforcement learning approach(partc 2023)
+##### cooperative meagering
+##### cooperative lane changing
+ Centralized vehicle trajectory planning on general platoon sorting problem with multi-vehicle lane changing(partc 2023)
  Coordinated trajectory planning for lane-changing in the weaving areas of dedicated lanes for connected and automated vehicles 
- Cooperative path and trajectory planning for autonomous vehicles on roads without lanes: A laboratory experimental demonstration
  Distributed cooperative trajectory and lane changing optimization of connected automated vehicles: Freeway segments with lane drop
- Analysis of cooperative driving strategies at road network level with macroscopic fundamental diagram
+##### intersection management
+##### roundabout management
+
+
+
+
 
 
 ## Control
