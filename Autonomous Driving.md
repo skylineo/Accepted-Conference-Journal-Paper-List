@@ -4,8 +4,8 @@
 ### Object Detection
 #### 2D Object Detection
 #### 3D Object Detection
-##### lidar only
-##### lidar&image fusion
+##### lidar based
+##### lidar&image fusion based
  Motion and geometry-related information fusion through a framework for object identification from a moving camera in urban driving scenarios(partc 2023)
 ### Object Tracking
 #### Single Object Tracking
@@ -14,6 +14,12 @@
  Using spatiotemporal stacks for precise vehicle tracking from roadside 3D LiDAR data(partc 2023)
 ### Localization
 Definition:The localization system identifies the location of the vehicle on a global coordinate system 
+#### Sensor Based Localization
+##### Camera Based
+##### Lidar Based
+##### Radar Based
+##### GPS/IMU Based
+#### Cooperative Localization
 ### Segmentation
 #### Semantic Segmentation
 #### Instance Segmentation
