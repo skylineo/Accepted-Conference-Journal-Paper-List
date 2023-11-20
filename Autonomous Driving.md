@@ -4,6 +4,8 @@
 ### Object Detection
 #### 2D Object Detection
 #### 3D Object Detection
+##### lidar only
+##### lidar&image fusion
  Motion and geometry-related information fusion through a framework for object identification from a moving camera in urban driving scenarios(partc 2023)
 ### Object Tracking
 #### Single Object Tracking
