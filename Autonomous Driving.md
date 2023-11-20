@@ -14,7 +14,7 @@
  Using spatiotemporal stacks for precise vehicle tracking from roadside 3D LiDAR data(partc 2023)
 ### Localization
 Definition:The localization system identifies the location of the vehicle on a global coordinate system 
-#### Sensor Based Localization
+#### Sensor-Based Localization
 ##### Camera Based
 ##### Lidar Based
 ##### Radar Based
