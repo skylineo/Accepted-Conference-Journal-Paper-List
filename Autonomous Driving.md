@@ -11,7 +11,10 @@
  Cooperative multi-camera vehicle tracking and traffic surveillance with edge artificial intelligence and representation learning(partc 2023)
  Using spatiotemporal stacks for precise vehicle tracking from roadside 3D LiDAR data(partc 2023)
 ### Localization
+Definition:The localization system identifies the location of the vehicle on a global coordinate system 
 ### Segmentation
+#### Semantic Segmentation
+#### Instance Segmentation
 ### Motion forecasting
 #### vehicle prediction
  Towards explainable motion prediction using heterogeneous graph representations(partc 2023)
