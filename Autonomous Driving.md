@@ -39,9 +39,10 @@ Definition:The localization system identifies the location of the vehicle on a g
  Long-term 4D trajectory prediction using generative adversarial networks(partc 2022)
 #### pedestrian prediction
  A context-aware pedestrian trajectory prediction framework for automated vehicles(partc 2022)
- 
 
 
+涉及到协同规控的分类目前正在查看文献
+##############################################################################################
 ## Decision Making & Planning
 ### Decision Making
 #### single-vehicle decision making
@@ -133,7 +134,7 @@ Definition:The localization system identifies the location of the vehicle on a g
  Cooperative signal-free intersection control using virtual platooning and traffic flow regulation(partc 2022)
  Formation control with lane preference for connected and automated vehicles in multi-lane scenarios(partc 2022)
  Robust optimal control of connected and automated vehicle platoons through improved particle swarm optimization(partc 2022)
- 
+ ##############################################################################################
 
 
 
