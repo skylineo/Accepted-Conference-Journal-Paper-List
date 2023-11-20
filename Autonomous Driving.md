@@ -20,6 +20,8 @@ Definition:The localization system identifies the location of the vehicle on a g
 ##### Radar Based
 ##### GPS/IMU Based
 #### Cooperative Localization
+##### V2V Based
+##### V2I Based
 ### Segmentation
 #### Semantic Segmentation
 #### Instance Segmentation
