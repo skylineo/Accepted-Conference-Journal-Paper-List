@@ -137,6 +137,14 @@ Definition:The localization system identifies the location of the vehicle on a g
  ##############################################################################################
 
 
+## Multi-Vehicle Cooperation
+*此处的分类方法基于cooperative strategies进行分类*
+*另外常见的分类方法：Cooperative Scenario Based or Maneuver based*
+### Centralized Coordination：One all-knowing, leading vehicle is responsible for the planning, coordination, and synchronization of the maneuvers of all the vehicles.
+### Decentralized with Coordination: This allows the vehicles to directly communicate with all neighboring vehicles having access to local knowledge aiming to plan maneuvers.
+### Decentralized without Coordination: The vehicles can observe other vehicles in the neighborhood without having the potential to exchange the information.
+
+
 
 
 ## Vehicle-level
