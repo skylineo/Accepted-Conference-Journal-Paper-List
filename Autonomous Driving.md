@@ -39,6 +39,7 @@ Definition:The localization system identifies the location of the vehicle on a g
  Long-term 4D trajectory prediction using generative adversarial networks(partc 2022)
 #### pedestrian prediction
  A context-aware pedestrian trajectory prediction framework for automated vehicles(partc 2022)
+### Risk perception(Risk field) 
 
 
 涉及到协同规控的分类目前正在查看文献
@@ -142,6 +143,8 @@ Definition:The localization system identifies the location of the vehicle on a g
 *另外常见的分类方法：Cooperative Scenario Based or Maneuver based*
 ### Centralized Coordination：One all-knowing, leading vehicle is responsible for the planning, coordination, and synchronization of the maneuvers of all the vehicles.
 ### Decentralized with Coordination: This allows the vehicles to directly communicate with all neighboring vehicles having access to local knowledge aiming to plan maneuvers.
+ Connected and automated vehicle distributed control for on-ramp merging scenario: A virtual rotation approach
+ 
 ### Decentralized without Coordination: The vehicles can observe other vehicles in the neighborhood without having the potential to exchange the information.
 
 
@@ -155,6 +158,7 @@ Definition:The localization system identifies the location of the vehicle on a g
 
 
 ## Others
+
 ### Generative
 ### trajectory imputation
  TrajGAT: A map-embedded graph attention network for real-time vehicle trajectory imputation of roadside perception(partc 2022)
