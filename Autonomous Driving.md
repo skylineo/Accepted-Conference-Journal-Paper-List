@@ -60,13 +60,9 @@
  Deep Reinforcement Learning for Personalized Driving Recommendations to Mitigate Aggressiveness and Riskiness: Modeling and Impact Assessment(partc 2022)
  Decision making of autonomous vehicles in lane change scenarios: Deep reinforcement learning approaches with risk awareness(partc 2022)
 #### cooperative decision making
-##### cooperative platooning
 
-##### cooperative meagering
-##### cooperative lane changing
-##### intersection management
 ##### roundabout management
- Lane change scheduling for connected and autonomous vehicles(partc 2023)
+
  Hierarchical and game-theoretic decision-making for connected and automated vehicles in overtaking scenarios(partc 2023)
  Toward personalized decision making for autonomous vehicles: A constrained multi-objective reinforcement learning technique(partc 2023)
 
@@ -141,6 +137,8 @@
  Connected automated vehicle cooperative control with a deep reinforcement learning approach in a mixed traffic environment
  Centralized vehicle trajectory planning on general platoon sorting problem with multi-vehicle lane changing(partc 2023)
 ### Decentralized with Coordination: This allows the vehicles to directly communicate with all neighboring vehicles having access to local knowledge aiming to plan maneuvers.
+ Lane change scheduling for connected and autonomous vehicles(partc 2023)
+ 
  Connected and automated vehicle distributed control for on-ramp merging scenario: A virtual rotation approach
  Distributed model predictive control for heterogeneous vehicle platoon with unknown input of leading vehicle(partc 2023)
  A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic(partc 2023)
