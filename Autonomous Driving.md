@@ -51,7 +51,6 @@
 
 ## Decision Making & Planning
 ### Decision Making
-#### single-vehicle decision making
  Modeling aggressive driving behavior based on graph construction(partc 2022)
  Modified DDPG car-following model with a real-world human driving experience with CARLA simulator(partc 2023)
  Why did the AI make that decision? Towards an explainable artificial intelligence (XAI) for autonomous driving systems(partc 2023)
@@ -59,12 +58,12 @@
  Improve generalization of driving policy at signalized intersections with adversarial learning(partc 2023)
  Deep Reinforcement Learning for Personalized Driving Recommendations to Mitigate Aggressiveness and Riskiness: Modeling and Impact Assessment(partc 2022)
  Decision making of autonomous vehicles in lane change scenarios: Deep reinforcement learning approaches with risk awareness(partc 2022)
-#### cooperative decision making
-
-##### roundabout management
-
  Hierarchical and game-theoretic decision-making for connected and automated vehicles in overtaking scenarios(partc 2023)
  Toward personalized decision making for autonomous vehicles: A constrained multi-objective reinforcement learning technique(partc 2023)
+
+
+
+ 
 
  
 ### Motion Planning
@@ -83,10 +82,9 @@
 ##### cooperative platooning
  Centralized vehicle trajectory planning on general platoon sorting problem with multi-vehicle lane changing(partc 2023)
  Decentralized motion planning for intelligent bus platoon based on hierarchical optimization framework(partc 2023)
-##### cooperative meagering
-##### cooperative lane changing
+
  
- Coordinated trajectory planning for lane-changing in the weaving areas of dedicated lanes for connected and automated vehicles(partc 2022) 
+
  
 
 
@@ -136,6 +134,7 @@
 ### Centralized Coordination：One all-knowing, leading vehicle is responsible for the planning, coordination, and synchronization of the maneuvers of all the vehicles.
  Connected automated vehicle cooperative control with a deep reinforcement learning approach in a mixed traffic environment
  Centralized vehicle trajectory planning on general platoon sorting problem with multi-vehicle lane changing(partc 2023)
+ Coordinated trajectory planning for lane-changing in the weaving areas of dedicated lanes for connected and automated vehicles
 ### Decentralized with Coordination: This allows the vehicles to directly communicate with all neighboring vehicles having access to local knowledge aiming to plan maneuvers.
  Lane change scheduling for connected and autonomous vehicles(partc 2023)
  
@@ -152,8 +151,9 @@
  Distributed cooperative trajectory and lane changing optimization of connected automated vehicles: Freeway segments with lane drop(partc 2022)
  Connected and automated vehicle distributed control for on-ramp merging scenario: A virtual rotation approach
   Flow-aware platoon formation of Connected Automated Vehicles in a mixed traffic with human-driven vehicles
-   Modeling decentralized mandatory lane change for connected and autonomous vehicles: An analytical method
+  Modeling decentralized mandatory lane change for connected and autonomous vehicles: An analytical method
 ### Decentralized without Coordination: The vehicles can observe other vehicles in the neighborhood without having the potential to exchange the information.
+  
  
 
 
