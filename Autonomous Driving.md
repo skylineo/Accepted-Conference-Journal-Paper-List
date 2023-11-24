@@ -7,13 +7,14 @@
 ##### lidar based
 ##### lidar&image fusion based
  Motion and geometry-related information fusion through a framework for object identification from a moving camera in urban driving scenarios(partc 2023)
+
 ### Object Tracking
 #### Single Object Tracking
 #### Multiple Object tracking
  Cooperative multi-camera vehicle tracking and traffic surveillance with edge artificial intelligence and representation learning(partc 2023)
  Using spatiotemporal stacks for precise vehicle tracking from roadside 3D LiDAR data(partc 2023)
+
 ### Localization
-Definition:The localization system identifies the location of the vehicle on a global coordinate system(partc 2022)
 #### Sensor-Based Localization
 ##### Camera Based
 ##### Lidar Based
@@ -22,9 +23,11 @@ Definition:The localization system identifies the location of the vehicle on a g
 #### Cooperative Localization
 ##### V2V Based
 ##### V2I Based
+
 ### Segmentation
 #### Semantic Segmentation
 #### Instance Segmentation
+
 ### Motion forecasting
 #### vehicle prediction
  Towards explainable motion prediction using heterogeneous graph representations(partc 2023)
@@ -37,13 +40,15 @@ Definition:The localization system identifies the location of the vehicle on a g
  Are socially-aware trajectory prediction models really socially-aware?(partc 2022)
  Fine-grained highway autonomous vehicle lane-changing trajectory prediction based on a heuristic attention-aided encoder-decoder model(partc 2022)
  Long-term 4D trajectory prediction using generative adversarial networks(partc 2022)
+  An improved learning-based LSTM approach for lane change intention prediction subject to imbalanced data
 #### pedestrian prediction
  A context-aware pedestrian trajectory prediction framework for automated vehicles(partc 2022)
+
 ### Risk perception(Risk field) 
+ A risk field-based metric correlates with driver’s perceived risk in manual and automated driving: A test-track study
 
 
-涉及到协同规控的分类目前正在查看文献
-##############################################################################################
+
 ## Decision Making & Planning
 ### Decision Making
 #### single-vehicle decision making
@@ -56,7 +61,7 @@ Definition:The localization system identifies the location of the vehicle on a g
  Decision making of autonomous vehicles in lane change scenarios: Deep reinforcement learning approaches with risk awareness(partc 2022)
 #### cooperative decision making
 ##### cooperative platooning
- Strategic and tactical decision-making for cooperative vehicle platooning with organized behavior on multi-lane highways(partc 2022)
+
 ##### cooperative meagering
 ##### cooperative lane changing
 ##### intersection management
@@ -68,12 +73,13 @@ Definition:The localization system identifies the location of the vehicle on a g
  
 ### Motion Planning
 #### single-vehicle planning
- Predictive trajectory planning for autonomous vehicles at intersections using reinforcement learning(partc 2023)
- A deep inverse reinforcement learning approach to route choice modeling with context-dependent rewards(partc 2023)
- No more road bullying: An integrated behavioral and motion planner with proactive right-of-way acquisition capability(partc 2023)
- Autonomous navigation at unsignalized intersections: A coupled reinforcement learning and model predictive control approach(partc 2022)
- A Markov Decision Process framework to incorporate network-level data in motion planning for connected and automated vehicles(partc 2022)
- Optimization-based path-planning for connected and non-connected automated vehicles(partc 2022)
+ Reliable trajectory-adaptive routing strategies in stochastic, time-varying networks with generalized correlations  
+ Predictive trajectory planning for autonomous vehicles at intersections using reinforcement learning(partc 2023)  
+ A deep inverse reinforcement learning approach to route choice modeling with context-dependent rewards(partc 2023)  
+ No more road bullying: An integrated behavioral and motion planner with proactive right-of-way acquisition capability(partc 2023)  
+ Autonomous navigation at unsignalized intersections: A coupled reinforcement learning and model predictive control approach(partc 2022)  
+ A Markov Decision Process framework to incorporate network-level data in motion planning for connected and automated vehicles(partc 2022)  
+ Optimization-based path-planning for connected and non-connected automated vehicles(partc 2022)  
 #### cooperative planning
  Analysis of cooperative driving strategies at road network level with macroscopic fundamental diagram(partc 2022)
  Cooperative path and trajectory planning for autonomous vehicles on roads without lanes: A laboratory experimental demonstration(partc 2022)
@@ -146,6 +152,9 @@ Definition:The localization system identifies the location of the vehicle on a g
  Formation control with lane preference for connected and automated vehicles in multi-lane scenarios(partc 2022)
  Robust optimal control of connected and automated vehicle platoons through improved particle swarm optimization(partc 2022)
  Distributed cooperative trajectory and lane changing optimization of connected automated vehicles: Freeway segments with lane drop(partc 2022)
+ Connected and automated vehicle distributed control for on-ramp merging scenario: A virtual rotation approach
+  Flow-aware platoon formation of Connected Automated Vehicles in a mixed traffic with human-driven vehicles
+   Modeling decentralized mandatory lane change for connected and autonomous vehicles: An analytical method
 ### Decentralized without Coordination: The vehicles can observe other vehicles in the neighborhood without having the potential to exchange the information.
  
 
