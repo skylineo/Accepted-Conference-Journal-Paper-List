@@ -79,9 +79,8 @@
  Analysis of cooperative driving strategies at road network level with macroscopic fundamental diagram(partc 2022)
  Cooperative path and trajectory planning for autonomous vehicles on roads without lanes: A laboratory experimental demonstration(partc 2022)
  Fair collaborative vehicle routing: A deep multi-agent reinforcement learning approach(partc 2023)
-##### cooperative platooning
- Centralized vehicle trajectory planning on general platoon sorting problem with multi-vehicle lane changing(partc 2023)
- Decentralized motion planning for intelligent bus platoon based on hierarchical optimization framework(partc 2023)
+
+
 
  
 
@@ -135,6 +134,7 @@
  Connected automated vehicle cooperative control with a deep reinforcement learning approach in a mixed traffic environment
  Centralized vehicle trajectory planning on general platoon sorting problem with multi-vehicle lane changing(partc 2023)
  Coordinated trajectory planning for lane-changing in the weaving areas of dedicated lanes for connected and automated vehicles
+
 ### Decentralized with Coordination: This allows the vehicles to directly communicate with all neighboring vehicles having access to local knowledge aiming to plan maneuvers.
  Lane change scheduling for connected and autonomous vehicles(partc 2023)
  
@@ -152,6 +152,7 @@
  Connected and automated vehicle distributed control for on-ramp merging scenario: A virtual rotation approach
   Flow-aware platoon formation of Connected Automated Vehicles in a mixed traffic with human-driven vehicles
   Modeling decentralized mandatory lane change for connected and autonomous vehicles: An analytical method
+   Decentralized motion planning for intelligent bus platoon based on hierarchical optimization framework(partc 2023)
 ### Decentralized without Coordination: The vehicles can observe other vehicles in the neighborhood without having the potential to exchange the information.
   
  
