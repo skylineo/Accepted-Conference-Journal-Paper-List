@@ -83,11 +83,10 @@ Definition:The localization system identifies the location of the vehicle on a g
  Decentralized motion planning for intelligent bus platoon based on hierarchical optimization framework(partc 2023)
 ##### cooperative meagering
 ##### cooperative lane changing
- Centralized vehicle trajectory planning on general platoon sorting problem with multi-vehicle lane changing(partc 2023)
+ 
  Coordinated trajectory planning for lane-changing in the weaving areas of dedicated lanes for connected and automated vehicles(partc 2022) 
- Distributed cooperative trajectory and lane changing optimization of connected automated vehicles: Freeway segments with lane drop(partc 2022)
-##### intersection management
-##### roundabout management
+ 
+
 
 
 
@@ -125,7 +124,18 @@ Definition:The localization system identifies the location of the vehicle on a g
  A local traffic characteristic based dynamic gains tuning algorithm for cooperative adaptive cruise control considering wireless communication delay(partc 2022)
  A novel hierarchical cooperative merging control model of connected and automated vehicles featuring flexible merging positions in system optimization(partc 2022)
  Damping behavior analysis for connected automated vehicles with linear car following control(partc 2022)
-### platoon collaboration control
+
+ ##############################################################################################
+
+
+## Multi-Vehicle Cooperation
+*此处的分类方法基于cooperative strategies进行分类*
+*另外常见的分类方法：Cooperative Scenario Based or Maneuver based*
+### Centralized Coordination：One all-knowing, leading vehicle is responsible for the planning, coordination, and synchronization of the maneuvers of all the vehicles.
+ Connected automated vehicle cooperative control with a deep reinforcement learning approach in a mixed traffic environment
+ Centralized vehicle trajectory planning on general platoon sorting problem with multi-vehicle lane changing(partc 2023)
+### Decentralized with Coordination: This allows the vehicles to directly communicate with all neighboring vehicles having access to local knowledge aiming to plan maneuvers.
+ Connected and automated vehicle distributed control for on-ramp merging scenario: A virtual rotation approach
  Distributed model predictive control for heterogeneous vehicle platoon with unknown input of leading vehicle(partc 2023)
  A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic(partc 2023)
  A deep reinforcement learning based distributed control strategy for connected automated vehicles in mixed traffic platoon(partc 2023)
@@ -135,17 +145,9 @@ Definition:The localization system identifies the location of the vehicle on a g
  Cooperative signal-free intersection control using virtual platooning and traffic flow regulation(partc 2022)
  Formation control with lane preference for connected and automated vehicles in multi-lane scenarios(partc 2022)
  Robust optimal control of connected and automated vehicle platoons through improved particle swarm optimization(partc 2022)
- ##############################################################################################
-
-
-## Multi-Vehicle Cooperation
-*此处的分类方法基于cooperative strategies进行分类*
-*另外常见的分类方法：Cooperative Scenario Based or Maneuver based*
-### Centralized Coordination：One all-knowing, leading vehicle is responsible for the planning, coordination, and synchronization of the maneuvers of all the vehicles.
-### Decentralized with Coordination: This allows the vehicles to directly communicate with all neighboring vehicles having access to local knowledge aiming to plan maneuvers.
- Connected and automated vehicle distributed control for on-ramp merging scenario: A virtual rotation approach
- 
+ Distributed cooperative trajectory and lane changing optimization of connected automated vehicles: Freeway segments with lane drop(partc 2022)
 ### Decentralized without Coordination: The vehicles can observe other vehicles in the neighborhood without having the potential to exchange the information.
+ 
 
 
 
