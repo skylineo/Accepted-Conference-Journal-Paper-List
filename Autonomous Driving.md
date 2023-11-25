@@ -131,20 +131,21 @@
 *此处的分类方法基于cooperative strategies进行分类*
 *另外常见的分类方法：Cooperative Scenario Based or Maneuver based*
 ### Centralized Coordination：One all-knowing, leading vehicle is responsible for the planning, coordination, and synchronization of the maneuvers of all the vehicles.
- Connected automated vehicle cooperative control with a deep reinforcement learning approach in a mixed traffic environment
+ Connected automated vehicle cooperative control with a deep reinforcement learning approach in a mixed traffic environment(partc 2021)
  Centralized vehicle trajectory planning on general platoon sorting problem with multi-vehicle lane changing(partc 2023)
- Coordinated trajectory planning for lane-changing in the weaving areas of dedicated lanes for connected and automated vehicles
-
+ Coordinated trajectory planning for lane-changing in the weaving areas of dedicated lanes for connected and automated vehicles(partc 2021)
+ Coordinated lane-changing scheduling of multilane CAV platoons in heterogeneous scenarios(partc 2023)
+ Reinforcement Learning based cooperative longitudinal control for reducing traffic oscillations and improving platoon stability
 ### Decentralized with Coordination: This allows the vehicles to directly communicate with all neighboring vehicles having access to local knowledge aiming to plan maneuvers.
  Lane change scheduling for connected and autonomous vehicles(partc 2023)
- 
  Connected and automated vehicle distributed control for on-ramp merging scenario: A virtual rotation approach
  Distributed model predictive control for heterogeneous vehicle platoon with unknown input of leading vehicle(partc 2023)
  A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic(partc 2023)
  A deep reinforcement learning based distributed control strategy for connected automated vehicles in mixed traffic platoon(partc 2023)
- Coordinated lane-changing scheduling of multilane CAV platoons in heterogeneous scenarios(partc 2023)
- COOR-PLT: A hierarchical control model for coordinating adaptive platoons of connected and autonomous vehicles at signal-free intersections based on deep reinforcement learning(partc 2023)
- Reinforcement Learning based cooperative longitudinal control for reducing traffic oscillations and improving platoon stability(partc 2022)
+ 
+ 
+ 
+
  Cooperative signal-free intersection control using virtual platooning and traffic flow regulation(partc 2022)
  Formation control with lane preference for connected and automated vehicles in multi-lane scenarios(partc 2022)
  Robust optimal control of connected and automated vehicle platoons through improved particle swarm optimization(partc 2022)
@@ -154,6 +155,9 @@
   Modeling decentralized mandatory lane change for connected and autonomous vehicles: An analytical method
    Decentralized motion planning for intelligent bus platoon based on hierarchical optimization framework(partc 2023)
 ### Decentralized without Coordination: The vehicles can observe other vehicles in the neighborhood without having the potential to exchange the information.
+### Centralized and Decentralized mix-Based
+ COOR-PLT: A hierarchical control model for coordinating adaptive platoons of connected and autonomous vehicles at signal-free intersections based on deep reinforcement learning(partc 2023)
+
   
  
 
