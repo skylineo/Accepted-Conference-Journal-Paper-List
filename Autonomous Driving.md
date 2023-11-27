@@ -137,28 +137,23 @@
  Coordinated lane-changing scheduling of multilane CAV platoons in heterogeneous scenarios(partc 2023)
  Reinforcement Learning based cooperative longitudinal control for reducing traffic oscillations and improving platoon stability
 ### Decentralized with Coordination: This allows the vehicles to directly communicate with all neighboring vehicles having access to local knowledge aiming to plan maneuvers.
- Lane change scheduling for connected and autonomous vehicles(partc 2023)
- Connected and automated vehicle distributed control for on-ramp merging scenario: A virtual rotation approach
- Distributed model predictive control for heterogeneous vehicle platoon with unknown input of leading vehicle(partc 2023)
- A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic(partc 2023)
- A deep reinforcement learning based distributed control strategy for connected automated vehicles in mixed traffic platoon(partc 2023)
- Distributed cooperative trajectory and lane changing optimization of connected automated vehicles: Freeway segments with lane  drop(partc 2022)
- Decentralized motion planning for intelligent bus platoon based on hierarchical optimization framework(partc 2023)
- Connected and automated vehicle distributed control for on-ramp merging scenario: A virtual rotation approach
- Flow-aware platoon formation of Connected Automated Vehicles in a mixed traffic with human-driven vehicles
- Cooperative signal-free intersection control using virtual platooning and traffic flow regulation(partc 2022)
- Modeling decentralized mandatory lane change for connected and autonomous vehicles: An analytical method
- Robust optimal control of connected and automated vehicle platoons through improved particle swarm optimization(partc 2022)
- 
- 
- 
- 
-   
+ Lane change scheduling for connected and autonomous vehicles(partc 2023)  
+ Connected and automated vehicle distributed control for on-ramp merging scenario: A virtual rotation approach  
+ Distributed model predictive control for heterogeneous vehicle platoon with unknown input of leading vehicle(partc 2023)  
+ A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic(partc 2023)  
+ A deep reinforcement learning based distributed control strategy for connected automated vehicles in mixed traffic platoon(partc 2023)  
+ Distributed cooperative trajectory and lane changing optimization of connected automated vehicles: Freeway segments with lane  drop(partc 2022)  
+ Decentralized motion planning for intelligent bus platoon based on hierarchical optimization framework(partc 2023)  
+ Connected and automated vehicle distributed control for on-ramp merging scenario: A virtual rotation approach  
+ Flow-aware platoon formation of Connected Automated Vehicles in a mixed traffic with human-driven vehicles  
+ Cooperative signal-free intersection control using virtual platooning and traffic flow regulation(partc 2022)  
+ Modeling decentralized mandatory lane change for connected and autonomous vehicles: An analytical method  
+ Robust optimal control of connected and automated vehicle platoons through improved particle swarm optimization(partc 2022)  
 ### Decentralized without Coordination: The vehicles can observe other vehicles in the neighborhood without having the potential to exchange the information.
 ### Centralized and Decentralized mix-Based
- COOR-PLT: A hierarchical control model for coordinating adaptive platoons of connected and autonomous vehicles at signal-free intersections based on deep reinforcement learning(partc 2023)
- Analysis of cooperative driving strategies at road network level with macroscopic fundamental diagram(partc 2022)
- Formation control with lane preference for connected and automated vehicles in multi-lane scenarios(partc 2022)
+ COOR-PLT: A hierarchical control model for coordinating adaptive platoons of connected and autonomous vehicles at signal-free intersections based on deep reinforcement learning(partc 2023)  
+ Analysis of cooperative driving strategies at road network level with macroscopic fundamental diagram(partc 2022)  
+ Formation control with lane preference for connected and automated vehicles in multi-lane scenarios(partc 2022)  
 
   
  
