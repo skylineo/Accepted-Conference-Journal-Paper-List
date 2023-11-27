@@ -77,6 +77,7 @@
 
 ## Control
 ### lateral control
+_definition:Lateral control systems aim to control the vehicle’s position on the lane, as well as carry out other lateral actions such as lane changes or collision avoidance manoeuvres through controling the steering of the vehicle._
 ### longitudinal control
 ### simultaneous lateral and longitudinal control
 ### single-vehicle control
@@ -101,7 +102,8 @@
 
 
 ## Multi-Vehicle Cooperation
-### Centralized Coordination：One all-knowing, leading vehicle is responsible for the planning, coordination, and synchronization of the maneuvers of all the vehicles.
+### Centralized Coordination
+_definityion:One all-knowing, leading vehicle is responsible for the planning, coordination, and synchronization of the maneuvers of all the vehicles._
  A novel hierarchical cooperative merging control model of connected and automated vehicles featuring flexible merging positions in system optimization(partc 2022)
  Cooperative path and trajectory planning for autonomous vehicles on roads without lanes: A laboratory experimental demonstration(partc 2022)
  Connected automated vehicle cooperative control with a deep reinforcement learning approach in a mixed traffic environment(partc 2021)
@@ -110,7 +112,8 @@
  Coordinated lane-changing scheduling of multilane CAV platoons in heterogeneous scenarios(partc 2023)
  Reinforcement Learning based cooperative longitudinal control for reducing traffic oscillations and improving platoon stability
  Fair collaborative vehicle routing: A deep multi-agent reinforcement learning approach(partc 2023)
-### Decentralized with Coordination: This allows the vehicles to directly communicate with all neighboring vehicles having access to local knowledge aiming to plan maneuvers.
+### Decentralized with Coordination
+_definition:This allows the vehicles to directly communicate with all neighboring vehicles having access to local knowledge aiming to plan maneuvers._
  A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic(partc 2023)
  Make space to change lane: A cooperative adaptive cruise control lane change controller(partc 2022)
  A general approach to smoothing nonlinear mixed traffic via control of autonomous vehicles(partc 2023)
@@ -128,7 +131,8 @@
  Robust optimal control of connected and automated vehicle platoons through improved particle swarm optimization(partc 2022)
  Distributed data-driven predictive control for cooperatively smoothing mixed traffic flow(partc 2023)
  Fault-Tolerant cooperative driving at highway on-ramps considering communication failure(partc 2023)
-### Decentralized without Coordination: The vehicles can observe other vehicles in the neighborhood without having the potential to exchange the information.
+### Decentralized without Coordination
+_defifnition:The vehicles can observe other vehicles in the neighborhood without having the potential to exchange the information._
 ### Centralized and Decentralized mix-Based
  COOR-PLT: A hierarchical control model for coordinating adaptive platoons of connected and autonomous vehicles at signal-free intersections based on deep reinforcement learning(partc 2023)  
  Analysis of cooperative driving strategies at road network level with macroscopic fundamental diagram(partc 2022)  
