@@ -67,7 +67,6 @@
 
  
 ### Motion Planning
-#### single-vehicle planning
  Reliable trajectory-adaptive routing strategies in stochastic, time-varying networks with generalized correlations  
  Predictive trajectory planning for autonomous vehicles at intersections using reinforcement learning(partc 2023)  
  A deep inverse reinforcement learning approach to route choice modeling with context-dependent rewards(partc 2023)  
@@ -75,14 +74,12 @@
  Autonomous navigation at unsignalized intersections: A coupled reinforcement learning and model predictive control approach(partc 2022)  
  A Markov Decision Process framework to incorporate network-level data in motion planning for connected and automated vehicles(partc 2022)  
  Optimization-based path-planning for connected and non-connected automated vehicles(partc 2022)  
-#### cooperative planning
- 
- Cooperative path and trajectory planning for autonomous vehicles on roads without lanes: A laboratory experimental demonstration(partc 2022)
- Fair collaborative vehicle routing: A deep multi-agent reinforcement learning approach(partc 2023)
-
-
 
  
+
+ 
+
+
 
  
 
@@ -131,11 +128,14 @@
 *此处的分类方法基于cooperative strategies进行分类*
 *另外常见的分类方法：Cooperative Scenario Based or Maneuver based*
 ### Centralized Coordination：One all-knowing, leading vehicle is responsible for the planning, coordination, and synchronization of the maneuvers of all the vehicles.
+ Cooperative path and trajectory planning for autonomous vehicles on roads without lanes: A laboratory experimental demonstration(partc 2022)
  Connected automated vehicle cooperative control with a deep reinforcement learning approach in a mixed traffic environment(partc 2021)
  Centralized vehicle trajectory planning on general platoon sorting problem with multi-vehicle lane changing(partc 2023)
  Coordinated trajectory planning for lane-changing in the weaving areas of dedicated lanes for connected and automated vehicles(partc 2021)
  Coordinated lane-changing scheduling of multilane CAV platoons in heterogeneous scenarios(partc 2023)
  Reinforcement Learning based cooperative longitudinal control for reducing traffic oscillations and improving platoon stability
+ Fair collaborative vehicle routing: A deep multi-agent reinforcement learning approach(partc 2023)
+
 ### Decentralized with Coordination: This allows the vehicles to directly communicate with all neighboring vehicles having access to local knowledge aiming to plan maneuvers.
  Lane change scheduling for connected and autonomous vehicles(partc 2023)  
  Connected and automated vehicle distributed control for on-ramp merging scenario: A virtual rotation approach  
