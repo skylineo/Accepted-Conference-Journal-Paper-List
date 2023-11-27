@@ -44,7 +44,7 @@
 #### pedestrian prediction
  A context-aware pedestrian trajectory prediction framework for automated vehicles(partc 2022)    
 
-### Risk assessment(Risk field) 
+### Risk Assessment(Risk field) 
  A risk field-based metric correlates with driver’s perceived risk in manual and automated driving: A test-track study  
 
 
@@ -76,6 +76,9 @@
 
 
 ## Control
+### lateral control
+### longitudinal control
+### simultaneous lateral and longitudinal control
 ### single-vehicle control
  Safe autonomous lane changes and impact on traffic flow in a connected vehicle environment(partc 2023)
  A control strategy for merging a single vehicle into a platoon at highway on-ramps(partc 2022)
@@ -98,8 +101,6 @@
 
 
 ## Multi-Vehicle Cooperation
-*此处的分类方法基于cooperative strategies进行分类*
-*另外常见的分类方法：Cooperative Scenario Based or Maneuver based*
 ### Centralized Coordination：One all-knowing, leading vehicle is responsible for the planning, coordination, and synchronization of the maneuvers of all the vehicles.
  A novel hierarchical cooperative merging control model of connected and automated vehicles featuring flexible merging positions in system optimization(partc 2022)
  Cooperative path and trajectory planning for autonomous vehicles on roads without lanes: A laboratory experimental demonstration(partc 2022)
@@ -109,7 +110,6 @@
  Coordinated lane-changing scheduling of multilane CAV platoons in heterogeneous scenarios(partc 2023)
  Reinforcement Learning based cooperative longitudinal control for reducing traffic oscillations and improving platoon stability
  Fair collaborative vehicle routing: A deep multi-agent reinforcement learning approach(partc 2023)
-
 ### Decentralized with Coordination: This allows the vehicles to directly communicate with all neighboring vehicles having access to local knowledge aiming to plan maneuvers.
  A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic(partc 2023)
  Make space to change lane: A cooperative adaptive cruise control lane change controller(partc 2022)
@@ -141,8 +141,6 @@
 
 
 ## Vehicle-level
-
-
 ## Vehicle-Road(V2X)
 ### V2I
  An eco-driving algorithm based on vehicle to infrastructure (V2I) communications for signalized intersections(partc 2022)
