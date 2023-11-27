@@ -76,7 +76,7 @@
  A Markov Decision Process framework to incorporate network-level data in motion planning for connected and automated vehicles(partc 2022)  
  Optimization-based path-planning for connected and non-connected automated vehicles(partc 2022)  
 #### cooperative planning
- Analysis of cooperative driving strategies at road network level with macroscopic fundamental diagram(partc 2022)
+ 
  Cooperative path and trajectory planning for autonomous vehicles on roads without lanes: A laboratory experimental demonstration(partc 2022)
  Fair collaborative vehicle routing: A deep multi-agent reinforcement learning approach(partc 2023)
 
@@ -142,21 +142,23 @@
  Distributed model predictive control for heterogeneous vehicle platoon with unknown input of leading vehicle(partc 2023)
  A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic(partc 2023)
  A deep reinforcement learning based distributed control strategy for connected automated vehicles in mixed traffic platoon(partc 2023)
- 
- 
- 
-
- Cooperative signal-free intersection control using virtual platooning and traffic flow regulation(partc 2022)
- Formation control with lane preference for connected and automated vehicles in multi-lane scenarios(partc 2022)
- Robust optimal control of connected and automated vehicle platoons through improved particle swarm optimization(partc 2022)
- Distributed cooperative trajectory and lane changing optimization of connected automated vehicles: Freeway segments with lane drop(partc 2022)
+ Distributed cooperative trajectory and lane changing optimization of connected automated vehicles: Freeway segments with lane  drop(partc 2022)
+ Decentralized motion planning for intelligent bus platoon based on hierarchical optimization framework(partc 2023)
  Connected and automated vehicle distributed control for on-ramp merging scenario: A virtual rotation approach
-  Flow-aware platoon formation of Connected Automated Vehicles in a mixed traffic with human-driven vehicles
-  Modeling decentralized mandatory lane change for connected and autonomous vehicles: An analytical method
-   Decentralized motion planning for intelligent bus platoon based on hierarchical optimization framework(partc 2023)
+ Flow-aware platoon formation of Connected Automated Vehicles in a mixed traffic with human-driven vehicles
+ Cooperative signal-free intersection control using virtual platooning and traffic flow regulation(partc 2022)
+ Modeling decentralized mandatory lane change for connected and autonomous vehicles: An analytical method
+ Robust optimal control of connected and automated vehicle platoons through improved particle swarm optimization(partc 2022)
+ 
+ 
+ 
+ 
+   
 ### Decentralized without Coordination: The vehicles can observe other vehicles in the neighborhood without having the potential to exchange the information.
 ### Centralized and Decentralized mix-Based
  COOR-PLT: A hierarchical control model for coordinating adaptive platoons of connected and autonomous vehicles at signal-free intersections based on deep reinforcement learning(partc 2023)
+ Analysis of cooperative driving strategies at road network level with macroscopic fundamental diagram(partc 2022)
+ Formation control with lane preference for connected and automated vehicles in multi-lane scenarios(partc 2022)
 
   
  
