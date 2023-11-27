@@ -151,7 +151,7 @@ _defifnition:The vehicles can observe other vehicles in the neighborhood without
 
 
 
-## Vehicle-level
+## Vehicle-level(End2End)
 ## Vehicle-Road(V2X)
 ### V2I
  An eco-driving algorithm based on vehicle to infrastructure (V2I) communications for signalized intersections(partc 2022)
