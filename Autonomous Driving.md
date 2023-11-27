@@ -77,27 +77,32 @@
 
 ## Control
 ### lateral control
-_definition:Lateral control systems aim to control the vehicle’s position on the lane, as well as carry out other lateral actions such as lane changes or collision avoidance manoeuvres through controling the steering of the vehicle._
+ Predicting and explaining lane-changing behaviour using machine learning: A comparative study(partc 2022)
 ### longitudinal control
-### simultaneous lateral and longitudinal control
-### single-vehicle control
- Safe autonomous lane changes and impact on traffic flow in a connected vehicle environment(partc 2023)
- A control strategy for merging a single vehicle into a platoon at highway on-ramps(partc 2022)
  Model predictive control policy design, solutions, and stability analysis for longitudinal vehicle control considering shockwave damping(partc 2023)
  Unified framework for over-damped string stable adaptive cruise control systems(partc 2023)
- A generative car-following model conditioned on driving styles(partc 2022)
- Predicting and explaining lane-changing behaviour using machine learning: A comparative study(partc 2022)
  Congestion-mitigating MPC design for adaptive cruise control based on Newell’s car following model: History outperforms prediction(partc 2022)
  Multianticipation for string stable Adaptive Cruise Control and increased motorway capacity without vehicle-to-vehicle communication(partc 2022)
  Physics-augmented models to simulate commercial adaptive cruise control (ACC) systems(partc 2022)
  Comfortable and energy-efficient speed control of autonomous vehicles on rough pavements using deep reinforcement learning(partc 2022)
+ A generative car-following model conditioned on driving styles(partc 2022)
+ Significance of low-level control to string stability under adaptive cruise control: Algorithms, theory and experiments(partc 2022)
+### simultaneous lateral and longitudinal control
+
+ 
+
+ 
+ 
+ 
+ 
+
  
 ### traffic control
  Adaptive control with moving actuators at motorway bottlenecks with connected and automated vehicles(partc 2023)
  Nonlinear model predictive control of large-scale urban road networks via average speed control(partc 2023)
  Safety-critical traffic control by connected automated vehicles(partc 2023)
- Significance of low-level control to string stability under adaptive cruise control: Algorithms, theory and experiments(partc 2022)
- A scenario-based distributed model predictive control approach for freeway networks(partc 2022)
+ 
+ 
 
 
 
@@ -113,6 +118,8 @@ _definityion:One all-knowing, leading vehicle is responsible for the planning, c
  Reinforcement Learning based cooperative longitudinal control for reducing traffic oscillations and improving platoon stability
  Fair collaborative vehicle routing: A deep multi-agent reinforcement learning approach(partc 2023)
 ### Decentralized with Coordination
+ A control strategy for merging a single vehicle into a platoon at highway on-ramps(partc 2022)
+ Safe autonomous lane changes and impact on traffic flow in a connected vehicle environment(partc 2023)
 _definition:This allows the vehicles to directly communicate with all neighboring vehicles having access to local knowledge aiming to plan maneuvers._
  A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic(partc 2023)
  Make space to change lane: A cooperative adaptive cruise control lane change controller(partc 2022)
@@ -155,8 +162,6 @@ _defifnition:The vehicles can observe other vehicles in the neighborhood without
 ## Others
 
 ### Generative
-### trajectory imputation
- TrajGAT: A map-embedded graph attention network for real-time vehicle trajectory imputation of roadside perception(partc 2022)
 
 ### Traffic flow operation
  Stability analysis and connected vehicles management for mixed traffic flow with platoons of connected automated vehicles(partc 2023)
@@ -169,6 +174,7 @@ _defifnition:The vehicles can observe other vehicles in the neighborhood without
  Decentralized signal control for multi-modal traffic network: A deep reinforcement learning approach(partc 2023)
  Alpha-fair large-scale urban network control: A perimeter control based on a macroscopic fundamental diagram(partc 2023)
  TD3LVSL: A lane-level variable speed limit approach based on twin delayed deep deterministic policy gradient in a connected automated vehicle environment(partc 2023)
+ A scenario-based distributed model predictive control approach for freeway networks(partc 2022)
  Connected automated vehicle trajectory optimization along signalized arterial: A decentralized approach under mixed traffic environment(partc 2022)
  Lane change detection and prediction using real-world connected vehicle data(partc 2022)
  Does LSTM outperform 4DDTW-KNN in lane change identification based on eye gaze data?(partc 2022)
