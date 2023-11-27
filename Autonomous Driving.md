@@ -44,7 +44,7 @@
 #### pedestrian prediction
  A context-aware pedestrian trajectory prediction framework for automated vehicles(partc 2022)    
 
-### Risk perception(Risk field) 
+### Risk assessment(Risk field) 
  A risk field-based metric correlates with driver’s perceived risk in manual and automated driving: A test-track study  
 
 
@@ -64,8 +64,6 @@
 
 
  
-
- 
 ### Motion Planning
  Reliable trajectory-adaptive routing strategies in stochastic, time-varying networks with generalized correlations  
  Predictive trajectory planning for autonomous vehicles at intersections using reinforcement learning(partc 2023)  
@@ -74,18 +72,6 @@
  Autonomous navigation at unsignalized intersections: A coupled reinforcement learning and model predictive control approach(partc 2022)  
  A Markov Decision Process framework to incorporate network-level data in motion planning for connected and automated vehicles(partc 2022)  
  Optimization-based path-planning for connected and non-connected automated vehicles(partc 2022)  
-
- 
-
- 
-
-
-
- 
-
-
-
-
 
 
 
@@ -105,29 +91,17 @@
 ### traffic control
  Adaptive control with moving actuators at motorway bottlenecks with connected and automated vehicles(partc 2023)
  Nonlinear model predictive control of large-scale urban road networks via average speed control(partc 2023)
- A novel bi-level temporally-distributed MPC approach: An application to green urban mobility(partc 2023)
- Hybrid perimeter control with real-time partitions in heterogeneous urban networks: An integration of deep learning and MPC(partc 2023)
  Safety-critical traffic control by connected automated vehicles(partc 2023)
  Significance of low-level control to string stability under adaptive cruise control: Algorithms, theory and experiments(partc 2022)
  A scenario-based distributed model predictive control approach for freeway networks(partc 2022)
-### multi-agent collaboration control
- Multi-objective multi-agent deep reinforcement learning to reduce bus bunching for multiline services with a shared corridor(partc 2023)
- Distributed data-driven predictive control for cooperatively smoothing mixed traffic flow(partc 2023)
- Fault-Tolerant cooperative driving at highway on-ramps considering communication failure(partc 2023)
- A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic(partc 2023)
- A general approach to smoothing nonlinear mixed traffic via control of autonomous vehicles(partc 2023)
- Make space to change lane: A cooperative adaptive cruise control lane change controller(partc 2022)
- A local traffic characteristic based dynamic gains tuning algorithm for cooperative adaptive cruise control considering wireless communication delay(partc 2022)
- A novel hierarchical cooperative merging control model of connected and automated vehicles featuring flexible merging positions in system optimization(partc 2022)
- Damping behavior analysis for connected automated vehicles with linear car following control(partc 2022)
 
- ##############################################################################################
 
 
 ## Multi-Vehicle Cooperation
 *此处的分类方法基于cooperative strategies进行分类*
 *另外常见的分类方法：Cooperative Scenario Based or Maneuver based*
 ### Centralized Coordination：One all-knowing, leading vehicle is responsible for the planning, coordination, and synchronization of the maneuvers of all the vehicles.
+ A novel hierarchical cooperative merging control model of connected and automated vehicles featuring flexible merging positions in system optimization(partc 2022)
  Cooperative path and trajectory planning for autonomous vehicles on roads without lanes: A laboratory experimental demonstration(partc 2022)
  Connected automated vehicle cooperative control with a deep reinforcement learning approach in a mixed traffic environment(partc 2021)
  Centralized vehicle trajectory planning on general platoon sorting problem with multi-vehicle lane changing(partc 2023)
@@ -137,6 +111,9 @@
  Fair collaborative vehicle routing: A deep multi-agent reinforcement learning approach(partc 2023)
 
 ### Decentralized with Coordination: This allows the vehicles to directly communicate with all neighboring vehicles having access to local knowledge aiming to plan maneuvers.
+ A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic(partc 2023)
+ Make space to change lane: A cooperative adaptive cruise control lane change controller(partc 2022)
+ A general approach to smoothing nonlinear mixed traffic via control of autonomous vehicles(partc 2023)
  Lane change scheduling for connected and autonomous vehicles(partc 2023)  
  Connected and automated vehicle distributed control for on-ramp merging scenario: A virtual rotation approach  
  Distributed model predictive control for heterogeneous vehicle platoon with unknown input of leading vehicle(partc 2023)  
@@ -148,7 +125,9 @@
  Flow-aware platoon formation of Connected Automated Vehicles in a mixed traffic with human-driven vehicles  
  Cooperative signal-free intersection control using virtual platooning and traffic flow regulation(partc 2022)  
  Modeling decentralized mandatory lane change for connected and autonomous vehicles: An analytical method  
- Robust optimal control of connected and automated vehicle platoons through improved particle swarm optimization(partc 2022)  
+ Robust optimal control of connected and automated vehicle platoons through improved particle swarm optimization(partc 2022)
+ Distributed data-driven predictive control for cooperatively smoothing mixed traffic flow(partc 2023)
+ Fault-Tolerant cooperative driving at highway on-ramps considering communication failure(partc 2023)
 ### Decentralized without Coordination: The vehicles can observe other vehicles in the neighborhood without having the potential to exchange the information.
 ### Centralized and Decentralized mix-Based
  COOR-PLT: A hierarchical control model for coordinating adaptive platoons of connected and autonomous vehicles at signal-free intersections based on deep reinforcement learning(partc 2023)  
@@ -164,8 +143,11 @@
 ## Vehicle-level
 
 
-## Vehicle-Road
+## Vehicle-Road(V2X)
+### V2I
  An eco-driving algorithm based on vehicle to infrastructure (V2I) communications for signalized intersections(partc 2022)
+### V2V&V2P
+ A local traffic characteristic based dynamic gains tuning algorithm for cooperative adaptive cruise control considering wireless communication delay(partc 2022)
 
 
 ## Others
