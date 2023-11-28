@@ -51,21 +51,21 @@
 
 ## Decision Making & Planning
 ### Decision Making
- Modeling aggressive driving behavior based on graph construction(partc 2022)
- Modified DDPG car-following model with a real-world human driving experience with CARLA simulator(partc 2023)
- Why did the AI make that decision? Towards an explainable artificial intelligence (XAI) for autonomous driving systems(partc 2023)
- Human-like decision making for lane change based on the cognitive map and hierarchical reinforcement learning(partc 2023)
- Improve generalization of driving policy at signalized intersections with adversarial learning(partc 2023)
- Deep Reinforcement Learning for Personalized Driving Recommendations to Mitigate Aggressiveness and Riskiness: Modeling and Impact Assessment(partc 2022)
- Decision making of autonomous vehicles in lane change scenarios: Deep reinforcement learning approaches with risk awareness(partc 2022)
- Hierarchical and game-theoretic decision-making for connected and automated vehicles in overtaking scenarios(partc 2023)
- Toward personalized decision making for autonomous vehicles: A constrained multi-objective reinforcement learning technique(partc 2023)
+ Modeling aggressive driving behavior based on graph construction(partc 2022)  
+ Modified DDPG car-following model with a real-world human driving experience with CARLA simulator(partc 2023)  
+ Why did the AI make that decision? Towards an explainable artificial intelligence (XAI) for autonomous driving systems(partc 2023)  
+ Human-like decision making for lane change based on the cognitive map and hierarchical reinforcement learning(partc 2023)  
+ Improve generalization of driving policy at signalized intersections with adversarial learning(partc 2023)  
+ Deep Reinforcement Learning for Personalized Driving Recommendations to Mitigate Aggressiveness and Riskiness: Modeling and Impact Assessment(partc 2022)  
+ Decision making of autonomous vehicles in lane change scenarios: Deep reinforcement learning approaches with risk awareness(partc 2022)  
+ Hierarchical and game-theoretic decision-making for connected and automated vehicles in overtaking scenarios(partc 2023)  
+ Toward personalized decision making for autonomous vehicles: A constrained multi-objective reinforcement learning technique(partc 2023)  
 
 
 
  
 ### Motion Planning
- Reliable trajectory-adaptive routing strategies in stochastic, time-varying networks with generalized correlations  
+ Reliable trajectory-adaptive routing strategies in stochastic, time-varying networks with generalized correlations   
  Predictive trajectory planning for autonomous vehicles at intersections using reinforcement learning(partc 2023)  
  A deep inverse reinforcement learning approach to route choice modeling with context-dependent rewards(partc 2023)  
  No more road bullying: An integrated behavioral and motion planner with proactive right-of-way acquisition capability(partc 2023)  
@@ -77,30 +77,22 @@
 
 ## Control
 ### lateral control
- Predicting and explaining lane-changing behaviour using machine learning: A comparative study(partc 2022)
+ Predicting and explaining lane-changing behaviour using machine learning: A comparative study(partc 2022)  
 ### longitudinal control
- Model predictive control policy design, solutions, and stability analysis for longitudinal vehicle control considering shockwave damping(partc 2023)
- Unified framework for over-damped string stable adaptive cruise control systems(partc 2023)
- Congestion-mitigating MPC design for adaptive cruise control based on Newell’s car following model: History outperforms prediction(partc 2022)
- Multianticipation for string stable Adaptive Cruise Control and increased motorway capacity without vehicle-to-vehicle communication(partc 2022)
- Physics-augmented models to simulate commercial adaptive cruise control (ACC) systems(partc 2022)
- Comfortable and energy-efficient speed control of autonomous vehicles on rough pavements using deep reinforcement learning(partc 2022)
- A generative car-following model conditioned on driving styles(partc 2022)
- Significance of low-level control to string stability under adaptive cruise control: Algorithms, theory and experiments(partc 2022)
+ Model predictive control policy design, solutions, and stability analysis for longitudinal vehicle control considering shockwave damping(partc 2023)  
+ Unified framework for over-damped string stable adaptive cruise control systems(partc 2023)  
+ Congestion-mitigating MPC design for adaptive cruise control based on Newell’s car following model: History outperforms prediction(partc 2022)  
+ Multianticipation for string stable Adaptive Cruise Control and increased motorway capacity without vehicle-to-vehicle communication(partc 2022)  
+ Physics-augmented models to simulate commercial adaptive cruise control (ACC) systems(partc 2022)  
+ Comfortable and energy-efficient speed control of autonomous vehicles on rough pavements using deep reinforcement learning(partc 2022)  
+ A generative car-following model conditioned on driving styles(partc 2022)  
+ Significance of low-level control to string stability under adaptive cruise control: Algorithms, theory and experiments(partc 2022)  
+ Safety-critical traffic control by connected automated vehicles(partc 2023)  
 ### simultaneous lateral and longitudinal control
 
  
 
  
- 
- 
- 
-
- 
-### traffic control
- Adaptive control with moving actuators at motorway bottlenecks with connected and automated vehicles(partc 2023)
- Nonlinear model predictive control of large-scale urban road networks via average speed control(partc 2023)
- Safety-critical traffic control by connected automated vehicles(partc 2023)
  
  
 
@@ -182,4 +174,6 @@ _defifnition:The vehicles can observe other vehicles in the neighborhood without
  CVLight: Decentralized learning for adaptive traffic signal control with connected vehicles(partc 2022)
  Multi-agent reinforcement learning for Markov routing games: A new modeling paradigm for dynamic traffic assignment(partc 2022)
  DDP-GCN: Multi-graph convolutional network for spatiotemporal traffic forecasting(partc 2022)
+ Nonlinear model predictive control of large-scale urban road networks via average speed control(partc 2023)
+ Adaptive control with moving actuators at motorway bottlenecks with connected and automated vehicles(partc 2023)
 
