@@ -156,7 +156,7 @@ _definition:This allows the vehicles to directly communicate with all neighborin
 |A deep reinforcement learning based distributed control strategy for connected automated vehicles in mixed traffic platoon(partc 2023)|  
 |Distributed cooperative trajectory and lane changing optimization of connected automated vehicles: Freeway segments with lane  drop(partc 2022)|  
 |Decentralized motion planning for intelligent bus platoon based on hierarchical optimization framework(partc 2023)|  
-|Connected and automated vehicle distributed control for on-ramp merging scenario: A virtual rotation approach|  
+|Connected and automated vehicle distributed control for on-ramp merging scenario: A virtual rotation approach|It propose a virtual rotation approach to simplify the  merging problem to a virtual car following (CF) problem,  the rotation process, which serves as an upper-level controller, uses a predetermine merge point as a reference to calculate the relative spacing for vehicle and then determines the virtual car following sequences of vehicles in a predefined merging control area. A lower-level cooperative distributed control strategy is proposed to control vehicles’ trajectories with a specifically designed unidirectional multi-leader communication topology.| partc 2021|
 |Flow-aware platoon formation of Connected Automated Vehicles in a mixed traffic with human-driven vehicles|  
 |Cooperative signal-free intersection control using virtual platooning and traffic flow regulation(partc 2022)|  
 |Modeling decentralized mandatory lane change for connected and autonomous vehicles: An analytical method | 
