@@ -150,8 +150,7 @@ _definition:This allows the vehicles to directly communicate with all neighborin
 |A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic(partc 2023)|
 |Make space to change lane: A cooperative adaptive cruise control lane change controller(partc 2022)|
 |A general approach to smoothing nonlinear mixed traffic via control of autonomous vehicles(partc 2023)|
-|Lane change scheduling for connected and autonomous vehicles(partc 2023) | 
-|Connected and automated vehicle distributed control for on-ramp merging scenario: A virtual rotation approach|  
+|Lane change scheduling for connected and autonomous vehicles(partc 2023) |   
 |Distributed model predictive control for heterogeneous vehicle platoon with unknown input of leading vehicle(partc 2023)|  
 |A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic(partc 2023)|  
 |A deep reinforcement learning based distributed control strategy for connected automated vehicles in mixed traffic platoon(partc 2023)|  
