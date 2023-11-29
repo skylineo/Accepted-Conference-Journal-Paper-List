@@ -144,6 +144,7 @@ _definityion:One all-knowing, leading vehicle is responsible for the planning, c
 _definition:This allows the vehicles to directly communicate with all neighboring vehicles having access to local knowledge aiming to plan maneuvers._
 | 列1标题 | 列2标题 | 列3标题 |
 |---------|---------|---------|
+|Constraint-tree-driven modeling and distributed robust control for multi-vehicle cooperation at unsignalized intersections|
 |A control strategy for merging a single vehicle into a platoon at highway on-ramps(partc 2022)|
 |Safe autonomous lane changes and impact on traffic flow in a connected vehicle environment(partc 2023)|
 |A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic(partc 2023)|
