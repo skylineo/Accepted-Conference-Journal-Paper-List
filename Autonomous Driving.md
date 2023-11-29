@@ -41,6 +41,8 @@
 |---------|---------|---------|
 |A deep learning framework for modelling left-turning vehicle behaviour considering diagonal-crossing motorcycle conflicts at mixed-flow intersections|To model vehicle turning behaviour, we present a novel interaction-aware deep-learning framework. Firstly, a Long Short-Term Memory (LSTM) based network is employed to encode vehicle historical motion features. Then, each vehicle’s potential target lanes are identified with a probabilistic method, followed by a pooling module that extracts and summarizes intention features. Thirdly, Graph Attention Network (GAT) and a synthesized network are introduced to model vehicle-vehicle interaction and vehicle-motorcycle interaction respectively. Finally, multiple kinds of obtained features are sent to a LSTM based decoder module to generate future displacement and body orientation.|partc 2021|
 |A Bayesian inference based adaptive lane change prediction model|This paper aims to build a lane change prediction model for surrounding vehiclesl to adapt to the change of road and traffic environment based on machine learning methods. The lane change prediction model contains a basic model and an adaptive model: the basic model is a long short-term memory (LSTM) based prediction model which reflects the decision-making mode for drivers; the adaptive prediction model embeds an adaptive decision threshold on the basic model, and the threshold updates by Bayesian Inference method on time.|partc 2021|
+|Predicting time-varying, speed-varying dilemma zones using machine learning and continuous vehicle tracking|This paper proposes an innovative framework of predicting driver behavior under varying 
+dilemma zone conditions.A linear SVM was used to extract through vehicles from all approaching vehicles detected from radar sensors. A hierarchical clustering method was utilized to classify different traffic patterns by time-of-day. Finally, driver behavior prediction models were developed using three machine learning techniques (i.e., linear SVM, polynomial SVM, and ANN) widely adopted for binary classification problems to predicts drivers’ stop-or-go decision.|partc 2021|
 | Towards explainable motion prediction using heterogeneous graph representations | 行1单元 | partc 2023 |
 | Real-time forecasting of driver-vehicle dynamics on 3D roads: A deep-learning framework leveraging Bayesian optimisation | 行2单元 | partc 2023 |
 | Dynamic-learning spatial-temporal Transformer network for vehicular trajectory prediction at urban intersections | 行3单元 | partc 2023 |
@@ -60,6 +62,8 @@
 | 列1标题 | 列2标题 | 列3标题 |
 |---------|---------|---------|
 | A context-aware pedestrian trajectory prediction framework for automated vehicles | 行1单元 | partc 2022 |
+|Pedestrian intention prediction: A convolutional bottom-up multi-task approach |We want to predict the pedestrians’ intention to cross the road as early as possible given a single image. We present a new neural network for the primary task of pedestrian intention prediction. Our model takes as input only a single RGB image and generates a map predicting the probability that each pixel constitutes a pedestrian who is either crossing or not, bypassing the need for a people detector and running at constant time. We additionally have our model output in parallel, the detailed human body pose for 
+each pedestrian (Fig. 1c) c) to show that our network can be easily extended to perform a variety of other tasks with little overhead. The byproduct of the intention or pose map also allows the model to function as a generic people detector.|partc 2021|
 | 行2单元 | 行2单元 | 行2单元 |
 | 行3单元 | 行3单元 | 行3单元 | 
 
@@ -109,6 +113,7 @@
 ### longitudinal control
 | 列1标题 | 列2标题 | 列3标题 |
 |---------|---------|---------|
+|A physics-informed deep learning paradigm for car-following models |
 |Model predictive control policy design, solutions, and stability analysis for longitudinal vehicle control considering shockwave damping(partc 2023)|  
 |Unified framework for over-damped string stable adaptive cruise control systems(partc 2023)|  
 |Congestion-mitigating MPC design for adaptive cruise control based on Newell’s car following model: History outperforms prediction(partc 2022)|  
@@ -145,7 +150,8 @@ _definityion:One all-knowing, leading vehicle is responsible for the planning, c
 _definition:This allows the vehicles to directly communicate with all neighboring vehicles having access to local knowledge aiming to plan maneuvers._
 | 列1标题 | 列2标题 | 列3标题 |
 |---------|---------|---------|
-|Ramp metering control under stochastic capacity in a connected environment: A dynamic bargaining game theory approach|This paper presents a dynamic predictive and cooperative ramp metering approach to solve stochastic breakdowns at merging bottlenecks. A stochastic microscopic model is used to estimate traffic state parameters based on speed, location, and travel time information from connected vehicles. Traffic state predictions are obtained on a lane by lane basis using an adaptive Kalman filter (AKF); the AKF then produces multiple step ahead predictions. The ramp metering problem in this paper is modeled as a stochastic distributed model predictive control (SDMPC) approach. The SDMPC problem is solved based on a bargaining game approach where each controller, a player in the game, receives traffic state and control decision information from other controllers to solve the local optimization problem based on expected local costs and constraints. |partc 2021|
+|Trajectory planning for connected and automated vehicles at isolated signalized intersections under mixed traffic environment |This study proposes an approach to the decentralized planning of CAV trajectories at an isolated signalized intersection under the mixed traffic environment. A bi-level optimization model is formulated based on discrete time to optimize both the longitudinal and 
+lateral trajectories of a single CAV given signal timings and the trajectory information of surrounding vehicles. The upper-level model optimizes lateral lane-changing strategies. The lowerlevel model optimizes longitudinal acceleration profiles based on the lane-changing strategies from the upper-level model. A Lane-Changing Strategy Tree (LCST) and a Parallel Monte-Carlo Tree Search (PMCTS) algorithm are designed to solve the bi-level optimization model|partc 2021|
 |Constraint-tree-driven modeling and distributed robust control for multi-vehicle cooperation at unsignalized intersections|
 |A control strategy for merging a single vehicle into a platoon at highway on-ramps(partc 2022)|
 |Safe autonomous lane changes and impact on traffic flow in a connected vehicle environment(partc 2023)|
@@ -179,9 +185,6 @@ _defifnition:The vehicles can observe other vehicles in the neighborhood without
   
  
 
-
-
-
 ## Vehicle-level(End2End)
 ## Vehicle-Road(V2X)
 ### V2I
@@ -194,8 +197,15 @@ _defifnition:The vehicles can observe other vehicles in the neighborhood without
 |A local traffic characteristic based dynamic gains tuning algorithm for cooperative adaptive cruise control considering wireless communication delay|(partc 2022)|
 
 
-## Others
 
+## Vehicle-driver
+| 列1标题 | 列2标题 | 列3标题 |
+|---------|---------|---------|
+|Multi-scale driver behavior modeling based on deep spatial-temporal representation for intelligent vehicles|To enhance mutual understanding between driver and vehicle, the driver behavior recognition system is designed to simultaneously recognize the driver’s physical and mental behaviours with different time scales.The encoder module is designed based on a deep convolutional neural network (CNN) to capture spatial information from the input video stream. Then, several decoders for different driver states estimation are proposed with fully-connected (FC) and long short-term memory (LSTM) based recurrent neural networks (RNN).|partc 2021| 
+
+
+
+## Others
 ### Generative
 
 ### Traffic flow operation
