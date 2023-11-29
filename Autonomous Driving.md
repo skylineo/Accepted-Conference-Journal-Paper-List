@@ -8,17 +8,18 @@
 ##### lidar&image fusion based
 | title | abstract | year |
 |---------|---------|---------|
-| 行1单元 | 行1单元 | 行1单元 |
+| Motion and geometry-related information fusion through a framework for object identification from a moving camera in urban driving scenarios | 行1单元 | partc 2023 |
 | 行2单元 | 行2单元 | 行2单元 |
 | 行3单元 | 行3单元 | 行3单元 |
-
- Motion and geometry-related information fusion through a framework for object identification from a moving camera in urban driving scenarios(partc 2023)  
 
 ### Object Tracking
 #### Single Object Tracking
 #### Multiple Object tracking
- Cooperative multi-camera vehicle tracking and traffic surveillance with edge artificial intelligence and representation learning(partc 2023)  
- Using spatiotemporal stacks for precise vehicle tracking from roadside 3D LiDAR data(partc 2023)  
+| 列1标题 | 列2标题 | 列3标题 |
+|---------|---------|---------|
+| Cooperative multi-camera vehicle tracking and traffic surveillance with edge artificial intelligence and representation learning | 行1单元 | partc 2023 |
+| Using spatiotemporal stacks for precise vehicle tracking from roadside 3D LiDAR data | 行2单元 | partc 2023 |
+| 行3单元 | 行3单元 | 行3单元 |
 
 ### Localization
 #### Sensor-Based Localization
@@ -36,17 +37,23 @@
 
 ### Motion forecasting
 #### vehicle prediction
- Towards explainable motion prediction using heterogeneous graph representations(partc 2023)  
- Real-time forecasting of driver-vehicle dynamics on 3D roads: A deep-learning framework leveraging Bayesian optimisation(partc 2023)    
- Dynamic-learning spatial-temporal Transformer network for vehicular trajectory prediction at urban intersections(partc 2023)    
- A two-layer integrated model for cyclist trajectory prediction considering multiple interactions with the environment(partc 2023)    
- A physics-informed Transformer model for vehicle trajectory prediction on highways(partc 2023)    
- Explainable multimodal trajectory prediction using attention models(partc 2022)    
- Robust unsupervised learning of temporal dynamic vehicle-to-vehicle interactions(partc 2022)    
- Are socially-aware trajectory prediction models really socially-aware?(partc 2022)    
- Fine-grained highway autonomous vehicle lane-changing trajectory prediction based on a heuristic attention-aided encoder-decoder model(partc 2022)    
- Long-term 4D trajectory prediction using generative adversarial networks(partc 2022)    
- An improved learning-based LSTM approach for lane change intention prediction subject to imbalanced data    
+| 列1标题 | 列2标题 | 列3标题 |
+|---------|---------|---------|
+| Towards explainable motion prediction using heterogeneous graph representations | 行1单元 | partc 2023 |
+| Real-time forecasting of driver-vehicle dynamics on 3D roads: A deep-learning framework leveraging Bayesian optimisation | 行2单元 | partc 2023 |
+| Dynamic-learning spatial-temporal Transformer network for vehicular trajectory prediction at urban intersections | 行3单元 | partc 2023 |
+| A two-layer integrated model for cyclist trajectory prediction considering multiple interactions with the environment | 行1单元 | partc 2023 |
+| A physics-informed Transformer model for vehicle trajectory prediction on highways | 行2单元 | partc 2023 |
+| Explainable multimodal trajectory prediction using attention models | 行3单元 | partc 2022 |
+|  Robust unsupervised learning of temporal dynamic vehicle-to-vehicle interactions | 行1单元 | partc 2022 |
+| Are socially-aware trajectory prediction models really socially-aware? | 行2单元 | partc 2022 |
+| Fine-grained highway autonomous vehicle lane-changing trajectory prediction based on a heuristic attention-aided encoder-decoder model | 行3单元 | partc 2022 |
+| Long-term 4D trajectory prediction using generative adversarial networks | 行1单元 | partc 2022 |
+| An improved learning-based LSTM approach for lane change intention prediction subject to imbalanced data | 行2单元 | partc 2021 |
+| 行3单元 | 行3单元 | 行3单元 |
+| 行1单元 | 行1单元 | 行1单元 |
+| 行2单元 | 行2单元 | 行2单元 |
+| 行3单元 | 行3单元 | 行3单元 |   
 #### pedestrian prediction
  A context-aware pedestrian trajectory prediction framework for automated vehicles(partc 2022)    
 
