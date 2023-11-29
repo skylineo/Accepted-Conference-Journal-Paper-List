@@ -85,19 +85,17 @@
 |Hierarchical and game-theoretic decision-making for connected and automated vehicles in overtaking scenarios|(partc 2023)|  
 |Toward personalized decision making for autonomous vehicles: A constrained multi-objective reinforcement learning technique|(partc 2023)|  
 
-
-
- 
 ### Motion Planning
 | 列1标题 | 列2标题 | 列3标题 |
 |---------|---------|---------|
-|Reliable trajectory-adaptive routing strategies in stochastic, time-varying networks with generalized correlations|   
+|Reliable trajectory-adaptive routing strategies in stochastic, time-varying networks with generalized correlations| 
 |Predictive trajectory planning for autonomous vehicles at intersections using reinforcement learning|(partc 2023)|  
 |A deep inverse reinforcement learning approach to route choice modeling with context-dependent rewards|(partc 2023)|  
 |No more road bullying: An integrated behavioral and motion planner with proactive right-of-way acquisition capability|(partc 2023)|  
 |Autonomous navigation at unsignalized intersections: A coupled reinforcement learning and model predictive control approach|(partc 2022)|  
 |A Markov Decision Process framework to incorporate network-level data in motion planning for connected and automated vehicles|(partc 2022)|  
 |Optimization-based path-planning for connected and non-connected automated vehicles|(partc 2022)|  
+|Managing in real-time a vehicle routing plan with time-dependent travel times on a road network|Considering that the traditional plans may not be directly applicable in the actual state of the road network and must be adjusted to the most recent speed or travel time information. Our purpose here is to address this dynamic version of the problem that falls in the class of Dynamic Vehicle Routing Problems (DVRPs) where new inputs are received while the current planned routes are executed. We propose a methodology that reacts to modifications to travel times by maintaining as much as possible the current planned routes, but without compromising too much solution quality.|partc 2021| 
 
 
 
@@ -201,7 +199,7 @@ _defifnition:The vehicles can observe other vehicles in the neighborhood without
  MSGNN: A Multi-structured Graph Neural Network model for real-time incident prediction in large traffic networks(partc 2023)
  Adaptive control with moving actuators at motorway bottlenecks with connected and automated vehicles(partc 2023)
  Nonlinear model predictive control of large-scale urban road networks via average speed control(partc 2023)
- A macro–micro spatio-temporal neural network for traffic prediction(partc 2023)
+
  A safety-enhanced eco-driving strategy for connected and autonomous vehicles: A hierarchical and distributed framework(partc 2023)
  A novel spatio-temporal generative inference network for predicting the long-term highway traffic speed(partc 2023)
  Decentralized signal control for multi-modal traffic network: A deep reinforcement learning approach(partc 2023)
