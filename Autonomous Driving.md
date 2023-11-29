@@ -55,15 +55,28 @@
 | 行2单元 | 行2单元 | 行2单元 |
 | 行3单元 | 行3单元 | 行3单元 |   
 #### pedestrian prediction
- A context-aware pedestrian trajectory prediction framework for automated vehicles(partc 2022)    
+| 列1标题 | 列2标题 | 列3标题 |
+|---------|---------|---------|
+| A context-aware pedestrian trajectory prediction framework for automated vehicles | 行1单元 | partc 2022 |
+| 行2单元 | 行2单元 | 行2单元 |
+| 行3单元 | 行3单元 | 行3单元 | 
 
 ### Risk Assessment(Risk field) 
- A risk field-based metric correlates with driver’s perceived risk in manual and automated driving: A test-track study  
+| 列1标题 | 列2标题 | 列3标题 |
+|---------|---------|---------|
+|  A risk field-based metric correlates with driver’s perceived risk in manual and automated driving: A test-track study   | 行1单元 | partc 2021 |
+| 行2单元 | 行2单元 | 行2单元 |
+| 行3单元 | 行3单元 | 行3单元 |
 
 
 
 ## Decision Making & Planning
 ### Decision Making
+| 列1标题 | 列2标题 | 列3标题 |
+|---------|---------|---------|
+| 行1单元 | 行1单元 | 行1单元 |
+| 行2单元 | 行2单元 | 行2单元 |
+| 行3单元 | 行3单元 | 行3单元 |
  Modeling aggressive driving behavior based on graph construction(partc 2022)  
  Modified DDPG car-following model with a real-world human driving experience with CARLA simulator(partc 2023)  
  Why did the AI make that decision? Towards an explainable artificial intelligence (XAI) for autonomous driving systems(partc 2023)  
