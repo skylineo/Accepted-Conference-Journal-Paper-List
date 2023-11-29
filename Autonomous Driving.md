@@ -77,8 +77,8 @@
 | 行1单元 | 行1单元 | 行1单元 |
 | 行2单元 | 行2单元 | 行2单元 |
 | 行3单元 | 行3单元 | 行3单元 |
- Modeling aggressive driving behavior based on graph construction(partc 2022)  
- Modified DDPG car-following model with a real-world human driving experience with CARLA simulator(partc 2023)  
+ Modeling aggressive driving behavior based on graph construction (partc 2022)  
+ Modified DDPG car-following model with a real-world human driving experience with CARLA simulator (partc 2023)  
  Why did the AI make that decision? Towards an explainable artificial intelligence (XAI) for autonomous driving systems(partc 2023)  
  Human-like decision making for lane change based on the cognitive map and hierarchical reinforcement learning(partc 2023)  
  Improve generalization of driving policy at signalized intersections with adversarial learning(partc 2023)  
