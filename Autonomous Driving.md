@@ -49,7 +49,7 @@
 | Are socially-aware trajectory prediction models really socially-aware? | 行2单元 | partc 2022 |
 | Fine-grained highway autonomous vehicle lane-changing trajectory prediction based on a heuristic attention-aided encoder-decoder model | 行3单元 | partc 2022 |
 | Long-term 4D trajectory prediction using generative adversarial networks | 行1单元 | partc 2022 |
-| An improved learning-based LSTM approach for lane change intention prediction subject to imbalanced data | 行2单元 | partc 2021 |
+| An improved learning-based LSTM approach for lane change intention prediction subject to imbalanced data | To deal the problem of the imbalance between the lane changing data and lane keeping data, we propose a hierarchical over-sampling bagging method to generate more diverse and informative instances of minority classes for training LSTM model. Furthermore, we also propose a sampling technique to keep the temporal information and consider the interaction among agents through concatenating their trajectories when constructing features. | partc 2021 |
 | 行3单元 | 行3单元 | 行3单元 |
 | 行1单元 | 行1单元 | 行1单元 |
 | 行2单元 | 行2单元 | 行2单元 |
@@ -134,7 +134,7 @@ _definityion:One all-knowing, leading vehicle is responsible for the planning, c
 |---------|---------|---------|
 |A novel hierarchical cooperative merging control model of connected and automated vehicles featuring flexible merging positions in system optimization(partc 2022)|
 |Cooperative path and trajectory planning for autonomous vehicles on roads without lanes: A laboratory experimental demonstration(partc 2022)|
-|Connected automated vehicle cooperative control with a deep reinforcement learning approach in a mixed traffic environment(partc 2021)|
+|Connected automated vehicle cooperative control with a deep reinforcement learning approach in a mixed traffic environment(partc 2021)|To solve the car following problem in mixed traffic, we decomposed mixed traffic into multiple subsystems where each subsystem is comprised of a human-driven vehicle (HDV) followed by cooperative CAVs. Based on that, a cooperative CAV control strategy is developed based on a DRL algorithm, enabling CAVs to learn the leading HDV’s characteristics and make longitudinal control decisions cooperatively to improve the performance of each subsystem locally and consequently enhance performance for the whole mixed traffic flow.|partc 2021|
 |Centralized vehicle trajectory planning on general platoon sorting problem with multi-vehicle lane changing(partc 2023)|
 |Coordinated trajectory planning for lane-changing in the weaving areas of dedicated lanes for connected and automated vehicles(partc 2021)|
 |Coordinated lane-changing scheduling of multilane CAV platoons in heterogeneous scenarios(partc 2023)|
@@ -155,10 +155,10 @@ _definition:This allows the vehicles to directly communicate with all neighborin
 |A deep reinforcement learning based distributed control strategy for connected automated vehicles in mixed traffic platoon(partc 2023)|  
 |Distributed cooperative trajectory and lane changing optimization of connected automated vehicles: Freeway segments with lane  drop(partc 2022)|  
 |Decentralized motion planning for intelligent bus platoon based on hierarchical optimization framework(partc 2023)|  
-|Connected and automated vehicle distributed control for on-ramp merging scenario: A virtual rotation approach|It propose a virtual rotation approach to simplify the  merging problem to a virtual car following (CF) problem,  the rotation process, which serves as an upper-level controller, uses a predetermine merge point as a reference to calculate the relative spacing for vehicle and then determines the virtual car following sequences of vehicles in a predefined merging control area. A lower-level cooperative distributed control strategy is proposed to control vehicles’ trajectories with a specifically designed unidirectional multi-leader communication topology.| partc 2021|
+|Connected and automated vehicle distributed control for on-ramp merging scenario: A virtual rotation approach|It propose a virtual rotation approach to simplify the  merging problem to a virtual car following (CF) problem. The rotation process, which serves as an upper-level controller, uses a predetermine merge point as a reference to calculate the relative spacing for vehicle and then determines the virtual car following sequences of vehicles in a predefined merging control area. A lower-level cooperative distributed control strategy is proposed to control vehicles’ trajectories with a specifically designed unidirectional multi-leader communication topology.| partc 2021|
 |Flow-aware platoon formation of Connected Automated Vehicles in a mixed traffic with human-driven vehicles|  
 |Cooperative signal-free intersection control using virtual platooning and traffic flow regulation(partc 2022)|  
-|Modeling decentralized mandatory lane change for connected and autonomous vehicles: An analytical method | 
+|Modeling decentralized mandatory lane change for connected and autonomous vehicles: An analytical method | The framework achieves a safe MLC(Mandatory lane change) maneuver with multiple-CAV cooperation, including the lane change times, positions, and trajectories for the CAVs, while minimizing the impacts of the MLC maneuver on overall traffic. This problem was rigorously formulated and solved by an analytical method that significantly decreases computational time and renders the methodology suitable for practical implementations.|partc 2021| 
 |Robust optimal control of connected and automated vehicle platoons through improved particle swarm optimization(partc 2022)|
 |Distributed data-driven predictive control for cooperatively smoothing mixed traffic flow(partc 2023)|
 |Fault-Tolerant cooperative driving at highway on-ramps considering communication failure(partc 2023)|
