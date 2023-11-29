@@ -146,7 +146,6 @@ _definition:This allows the vehicles to directly communicate with all neighborin
 |---------|---------|---------|
 |A control strategy for merging a single vehicle into a platoon at highway on-ramps(partc 2022)|
 |Safe autonomous lane changes and impact on traffic flow in a connected vehicle environment(partc 2023)|
-
 |A platoon-based cooperative optimal control for connected autonomous vehicles at highway on-ramps under heavy traffic(partc 2023)|
 |Make space to change lane: A cooperative adaptive cruise control lane change controller(partc 2022)|
 |A general approach to smoothing nonlinear mixed traffic via control of autonomous vehicles(partc 2023)|
