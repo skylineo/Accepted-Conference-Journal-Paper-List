@@ -39,6 +39,7 @@
 #### vehicle prediction
 | 列1标题 | 列2标题 | 列3标题 |
 |---------|---------|---------|
+|A deep learning framework for modelling left-turning vehicle behaviour considering diagonal-crossing motorcycle conflicts at mixed-flow intersections|To model vehicle turning behaviour, we present a novel interaction-aware deep-learning framework. Firstly, a Long Short-Term Memory (LSTM) based network is employed to encode vehicle historical motion features. Secondly, each vehicle’s potential target lanes are identified with a probabilistic method, followed by a pooling module that extracts and summarizes intention features. Thirdly, Graph Attention Network (GAT) and a synthesized network are introduced to model vehicle-vehicle interaction and vehicle-motorcycle interaction respectively. Finally, multiple kinds of obtained features are sent to a LSTM based decoder module to generate future displacement and body orientation.|partc 2021|
 | Towards explainable motion prediction using heterogeneous graph representations | 行1单元 | partc 2023 |
 | Real-time forecasting of driver-vehicle dynamics on 3D roads: A deep-learning framework leveraging Bayesian optimisation | 行2单元 | partc 2023 |
 | Dynamic-learning spatial-temporal Transformer network for vehicular trajectory prediction at urban intersections | 行3单元 | partc 2023 |
@@ -216,4 +217,5 @@ _defifnition:The vehicles can observe other vehicles in the neighborhood without
  DDP-GCN: Multi-graph convolutional network for spatiotemporal traffic forecasting(partc 2022)
  Nonlinear model predictive control of large-scale urban road networks via average speed control(partc 2023)
  Adaptive control with moving actuators at motorway bottlenecks with connected and automated vehicles(partc 2023)
+ DRL-TP3: A learning and control framework for signalized intersections with mixed connected automated traffic
 
