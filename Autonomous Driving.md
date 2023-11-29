@@ -6,6 +6,12 @@
 #### 3D Object Detection
 ##### lidar based
 ##### lidar&image fusion based
+| title | abstract | year |
+|---------|---------|---------|
+| 行1单元 | 行1单元 | 行1单元 |
+| 行2单元 | 行2单元 | 行2单元 |
+| 行3单元 | 行3单元 | 行3单元 |
+
  Motion and geometry-related information fusion through a framework for object identification from a moving camera in urban driving scenarios(partc 2023)  
 
 ### Object Tracking
