@@ -123,7 +123,9 @@ each pedestrian (Fig. 1c) c) to show that our network can be easily extended to 
 |Significance of low-level control to string stability under adaptive cruise control: Algorithms, theory and experiments(partc 2022)|  
 |Safety-critical traffic control by connected automated vehicles(partc 2023)|  
 ### simultaneous lateral and longitudinal control
-|Learning how to dynamically route autonomous vehicles on shared roads|We study a dynamic routing game, in which the route choices of autonomous cars can be controlled and the human drivers react selfishly and dynamically. As the problem is prohibitively large, we use deep reinforcement learning to learn a policy for controlling the autonomous vehicles. This policy indirectly influences human drivers to route themselves in such a way that minimizes congestion on the network.|partc 2021|
+| 列1标题 | 列2标题 | 列3标题 |
+|---------|---------|---------|
+|Learning how to dynamically route autonomous vehicles on shared roads|We study a dynamic routing game, in which the route choices of autonomous cars can be controlled and the human drivers react selfishly and dynamically. As the problem is prohibitively large, we use deep reinforcement learning to learn a policy for controlling the autonomous vehicles. This policy indirectly influences human drivers to route themselves in such a way that minimizes congestion on the network.|partc 2021|
 
  
 
