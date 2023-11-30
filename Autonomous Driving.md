@@ -126,6 +126,7 @@ each pedestrian (Fig. 1c) c) to show that our network can be easily extended to 
 | 列1标题 | 列2标题 | 列3标题 |
 |---------|---------|---------|
 |Learning how to dynamically route autonomous vehicles on shared roads|We study a dynamic routing game, in which the route choices of autonomous cars can be controlled and the human drivers react selfishly and dynamically. As the problem is prohibitively large, we use deep reinforcement learning to learn a policy for controlling the autonomous vehicles. This policy indirectly influences human drivers to route themselves in such a way that minimizes congestion on the network.|partc 2021|
+|Markov-game modeling of cyclist-pedestrian interactions in shared spaces: A multi-agent adversarial inverse reinforcement learning approach|This study proposes a novel Multi-Agent Adversarial Inverse Reinforcement Learning approach (MA-AIRL) to model and simulate road user interactions at shared space facilities. Unlike the traditional game-theoretic framework that models multi-agent systems as a single time-step payoff, the proposed approach is based on Markov Games (MG) which models road users’ sequential decisions concurrently.The proposed algorithm recovers road users’ multi-agent reward functions using adversarial deep neural network discriminators and estimates their optimal policies using Multi-agent Actor-Critic with Kronecker factors (MACK) deep reinforcement learning. |partc 2021|
 
  
 
