@@ -112,7 +112,7 @@ each pedestrian (Fig. 1c) c) to show that our network can be easily extended to 
 ### longitudinal control
 | 列1标题 | 列2标题 | 列3标题 |
 |---------|---------|---------|
-|A physics-informed deep learning paradigm for car-following models |This paper aims to develop a family of neural network based car-following models that are informed by physics-based models, which leverage the advantage of both physics-based and deep learning based models. We design physics-informed deep learning carfollowing model (PIDL-CF) architectures encoded with 4 popular physics-based models. Acceleration is predicted for 4 traffic regimes: acceleration, deceleration, cruising, and emergency braking while considering the physics constraint. 
+|A physics-informed deep learning paradigm for car-following models |This paper aims to develop a family of neural network based car-following models that are informed by physics-based models, which leverage the advantage of both physics-based and deep learning based models. We design physics-informed deep learning car following model (PIDL-CF) architectures encoded with 4 popular physics-based models. Acceleration is predicted for 4 traffic regimes: acceleration, deceleration, cruising, and emergency braking while considering the physics constraint. 
 |Model predictive control policy design, solutions, and stability analysis for longitudinal vehicle control considering shockwave damping(partc 2023)|  
 |Unified framework for over-damped string stable adaptive cruise control systems(partc 2023)|  
 |Congestion-mitigating MPC design for adaptive cruise control based on Newell’s car following model: History outperforms prediction(partc 2022)|  
