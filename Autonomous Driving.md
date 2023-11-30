@@ -112,7 +112,8 @@ each pedestrian (Fig. 1c) c) to show that our network can be easily extended to 
 ### longitudinal control
 | 列1标题 | 列2标题 | 列3标题 |
 |---------|---------|---------|
-|A physics-informed deep learning paradigm for car-following models |
+|A physics-informed deep learning paradigm for car-following models |This paper aims to develop a family of neural network based car-following models that are informed by physics-based models, which 
+leverage the advantage of both physics-based and deep learning based models. We design physics-informed deep learning carfollowing model (PIDL-CF) architectures encoded with 4 popular physics-based models. Acceleration is predicted for 4 traffic regimes: acceleration, deceleration, cruising, and emergency braking while considering the physics constraint. 
 |Model predictive control policy design, solutions, and stability analysis for longitudinal vehicle control considering shockwave damping(partc 2023)|  
 |Unified framework for over-damped string stable adaptive cruise control systems(partc 2023)|  
 |Congestion-mitigating MPC design for adaptive cruise control based on Newell’s car following model: History outperforms prediction(partc 2022)|  
@@ -123,6 +124,7 @@ each pedestrian (Fig. 1c) c) to show that our network can be easily extended to 
 |Significance of low-level control to string stability under adaptive cruise control: Algorithms, theory and experiments(partc 2022)|  
 |Safety-critical traffic control by connected automated vehicles(partc 2023)|  
 ### simultaneous lateral and longitudinal control
+|Learning how to dynamically route autonomous vehicles on shared roads|We study a dynamic routing game, in which the route choices of autonomous cars can be controlled and the human drivers react selfishly and dynamically. As the problem is prohibitively large, we use deep reinforcement learning to learn a policy for controlling the autonomous vehicles. This policy indirectly influences human drivers to route themselves in such a way that minimizes congestion on the network.|partc 2021|
 
  
 
@@ -189,6 +191,8 @@ _defifnition:The vehicles can observe other vehicles in the neighborhood without
 | 列1标题 | 列2标题 | 列3标题 |
 |---------|---------|---------|
 |An eco-driving algorithm based on vehicle to infrastructure (V2I) communications for signalized intersections|(partc 2022)|
+|Data-driven road side unit location optimization for connected-autonomous-vehicle-based intersection control| To achieve low vehicle-to-road-side-unit (V2R) communication delay and support the implementation of CAV-based intersection control strategies, this study addresses the problem of road side unit (RSU) location optimization at a single intersection. The problem is formulated as a two-stage stochastic mixed-integer nonlinear program. The model aims to minimize the sum of the cost associated with RSU investment and the expectation of the penalty cost associated with V2R communication delay exceeding a pre-determined threshold. The first stage of the program determines the number and location of RSUs, when the intersection control strategy to be implemented is unknown. Given the first stage decision and the implemented intersection control strategy, the second stage model optimizes the detection area allocation among RSUs to minimize the penalty cost.|partc 2021|
+|On the deployment of V2X roadside units for traffic prediction |we focus on traffic predictions that instead are based on recording the trajectories of CVs and processing them via the connected roadside infrastructure, and investigate how V2I communication may facilitate traffic prediction. In particular, we establish metrics to quantify the amount of traffic prediction. We utilize analytical and numerical tools to evaluate these metrics as a function of (i) the location of the roadside units along the road, (ii) the communication range of the roadside units, and (iii) the penetration rate of connected vehicles on the road.|partc 2021|
 ### V2V&V2P
 | 列1标题 | 列2标题 | 列3标题 |
 |---------|---------|---------|
