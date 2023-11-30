@@ -69,7 +69,7 @@ each pedestrian (Fig. 1c) c) to show that our network can be easily extended to 
 ### Risk Assessment(Risk field) 
 | 列1标题 | 列2标题 | 列3标题 |
 |---------|---------|---------|
-|  A risk field-based metric correlates with driver’s perceived risk in manual and automated driving: A test-track study   | 行1单元 | partc 2021 |
+|  A risk field-based metric correlates with driver’s perceived risk in manual and automated driving: A test-track study | 行1单元 | partc 2021 |
 | 行2单元 | 行2单元 | 行2单元 |
 | 行3单元 | 行3单元 | 行3单元 |
 
