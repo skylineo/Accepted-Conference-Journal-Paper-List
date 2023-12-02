@@ -109,6 +109,7 @@
 ### lateral control
 | 列1标题 | 列2标题 | 列3标题 |
 |---------|---------|---------|
+|Space-weighted information fusion using deep reinforcement learning: The context of tactical control of lane-changing autonomous vehicles and connectivity range assessment|To migirate the limit caused by their sensor range, we describe a Deep Reinforcement Learning based approach that integrates the data collected through sensing and connectivity capabilities from other vehicles located in the proximity of the CAV and from those located further downstream, and we use the fused data to guide lane changing. In addition, recognizing the importance of the connectivity range (CR) to the performance of not only the algorithm but also of the vehicle in the actual driving environment.|partc 2021|
 |Predicting and explaining lane-changing behaviour using machine learning: A comparative study(partc 2022)|  
 ### longitudinal control
 | 列1标题 | 列2标题 | 列3标题 |
