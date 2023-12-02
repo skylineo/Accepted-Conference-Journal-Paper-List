@@ -63,8 +63,7 @@
 | 列1标题 | 列2标题 | 列3标题 |
 |---------|---------|---------|
 | A context-aware pedestrian trajectory prediction framework for automated vehicles | 行1单元 | partc 2022 |
-|Pedestrian intention prediction: A convolutional bottom-up multi-task approach |We want to predict the pedestrians’ intention to cross the road as early as possible given a single image. We present a new neural network for the primary task of pedestrian intention prediction. Our model takes as input only a single RGB image and generates a map predicting the probability that each pixel constitutes a pedestrian who is either crossing or not, bypassing the need for a people detector and running at constant time. We additionally have our model output in parallel, the detailed human body pose for 
-each pedestrian (Fig. 1c) c) to show that our network can be easily extended to perform a variety of other tasks with little overhead. The byproduct of the intention or pose map also allows the model to function as a generic people detector.|partc 2021|
+|Pedestrian intention prediction: A convolutional bottom-up multi-task approach |We want to predict the pedestrians’ intention to cross the road as early as possible given a single image. We present a new neural network for the primary task of pedestrian intention prediction. Our model takes as input only a single RGB image and generates a map predicting the probability that each pixel constitutes a pedestrian who is either crossing or not, bypassing the need for a people detector and running at constant time. We additionally have our model output in parallel, the detailed human body pose for each pedestrian (Fig. 1c) c) to show that our network can be easily extended to perform a variety of other tasks with little overhead. The byproduct of the intention or pose map also allows the model to function as a generic people detector.|partc 2021|
 | 行2单元 | 行2单元 | 行2单元 |
 | 行3单元 | 行3单元 | 行3单元 | 
 
