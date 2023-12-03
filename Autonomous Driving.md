@@ -103,6 +103,7 @@
 |Autonomous navigation at unsignalized intersections: A coupled reinforcement learning and model predictive control approach|(partc 2022)|  
 |A Markov Decision Process framework to incorporate network-level data in motion planning for connected and automated vehicles|(partc 2022)|  
 |Optimization-based path-planning for connected and non-connected automated vehicles|(partc 2022)|  
+|Optimizing operations at freeway weaves with connected and automated vehicles|1. Development of a new methodology for optimizing the CAV trajectories in a system with full CAV market penetration to maximize the weaving segment capacity and minimize the delay for each vehicle. 2. The optimization model formulates a novel logic which, unlike the majority of the literature, is independent of the characteristics of the leading vehicle. 3. The optimization algorithm enables the early departure of vehicles, which are not necessarily those that entered the system first. In other words, the FIFO queue order assumptions are relaxed.(基于V2I信息，实现车辆在高速公路编制路段的分段的path planning and optimizing,重点在于优化模型中的目标函数和约束条件的设计)|partc 2021|
 
 
 
@@ -145,7 +146,7 @@
 
 
 
-## Multi-Vehicle Cooperation
+##  Cooperation Driving
 ### Centralized Coordination
 _definityion:One all-knowing, leading vehicle is responsible for the planning, coordination, and synchronization of the maneuvers of all the vehicles._
 | 列1标题 | 列2标题 | 列3标题 |
@@ -227,7 +228,8 @@ _defifnition:The vehicles can observe other vehicles in the neighborhood without
  MSGNN: A Multi-structured Graph Neural Network model for real-time incident prediction in large traffic networks(partc 2023)
  Adaptive control with moving actuators at motorway bottlenecks with connected and automated vehicles(partc 2023)
  Nonlinear model predictive control of large-scale urban road networks via average speed control(partc 2023)
-
+ Optimal internal boundary control of lane-free automated vehicle traffic
+ Traffic scheduling and control in fully connected and automated networks
  A safety-enhanced eco-driving strategy for connected and autonomous vehicles: A hierarchical and distributed framework(partc 2023)
  A novel spatio-temporal generative inference network for predicting the long-term highway traffic speed(partc 2023)
  Decentralized signal control for multi-modal traffic network: A deep reinforcement learning approach(partc 2023)
