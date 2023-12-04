@@ -66,6 +66,7 @@
 |---------|---------|---------|
 | A context-aware pedestrian trajectory prediction framework for automated vehicles | 行1单元 | partc 2022 |
 |Pedestrian intention prediction: A convolutional bottom-up multi-task approach |We want to predict the pedestrians’ intention to cross the road as early as possible given a single image. We present a new neural network for the primary task of pedestrian intention prediction. Our model takes as input only a single RGB image and generates a map predicting the probability that each pixel constitutes a pedestrian who is either crossing or not, bypassing the need for a people detector and running at constant time. We additionally have our model output in parallel, the detailed human body pose for each pedestrian to show that our network can be easily extended to perform a variety of other tasks with little overhead. The byproduct of the intention or pose map also allows the model to function as a generic people detector.(采样神经网络实现基于像素点的行为预测及body pose)|partc 2021|
+|Decoding pedestrian and automated vehicle interactions using immersive virtual reality and interpretable deep learning|an interpretable machine learning framework is proposed to explore factors affecting pedestrians’ wait time before crossing mid-block crosswalks in the presence of automated vehicles.. Pedestrian wait time behaviour is then analysed using a data-driven Cox Proportional Hazards (CPH) model, in which the linear combination of the covariates is replaced by a flexible non-linear deep neural network.(本文没有进行轨迹预测，而是通过CPH模型对影响行人过斑马线的因素进行了定量分析，并采用类似于梯度传播的SHAP值分析进行可解释性分析）|partc 2021|
 | 行2单元 | 行2单元 | 行2单元 |
 | 行3单元 | 行3单元 | 行3单元 | 
 
@@ -73,6 +74,7 @@
 | 列1标题 | 列2标题 | 列3标题 |
 |---------|---------|---------|
 |  A risk field-based metric correlates with driver’s perceived risk in manual and automated driving: A test-track study | 行1单元 | partc 2021 |
+|Risk assessment based collision avoidance decision-making for autonomous vehicles in multi-scenarios|(1)A probabilistic approach of risk assessment that considered both driving safety and driving style for CA was proposed and verified to be effective in multi-scenarios. (2) Multiple safety indicators were comprehensively used to guarantee safety from multiple aspects, which addressed the demerits of the individual indicators in previous studies. (3) The collision avoidance strategy with adjustable driving style preferences to meet the demand of different consumers was developed to improve drivers’ acceptance of CA systems.|partc 2021|
 | 行2单元 | 行2单元 | 行2单元 |
 | 行3单元 | 行3单元 | 行3单元 |
 
