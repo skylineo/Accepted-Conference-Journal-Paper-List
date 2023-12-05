@@ -184,10 +184,6 @@ _definition:This allows the vehicles to directly communicate with all neighborin
 |Robust optimal control of connected and automated vehicle platoons through improved particle swarm optimization(partc 2022)|
 |Distributed data-driven predictive control for cooperatively smoothing mixed traffic flow(partc 2023)|
 |Fault-Tolerant cooperative driving at highway on-ramps considering communication failure(partc 2023)|
-### Decentralized without Coordination
-_defifnition:The vehicles can observe other vehicles in the neighborhood without having the potential to exchange the information._
-| 列1标题 | 列2标题 | 列3标题 |
-|---------|---------|---------|
 ### Centralized and Decentralized mix-Based
 | 列1标题 | 列2标题 | 列3标题 |
 |---------|---------|---------|
